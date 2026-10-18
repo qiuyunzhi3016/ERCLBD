@@ -1,0 +1,7 @@
+beautifulsoup4
+httpx
+openai
+pandas
+py2neo
+requests
+tqdm

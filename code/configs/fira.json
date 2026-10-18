@@ -1,0 +1,125 @@
+{
+  "Candidate Mechanisms": "Constraints",
+  "path_name": "fira",
+  "discovery_type": "disease",
+  "source_terms": [
+    "Fish Oils",
+    "Eicosapentaenoic Acid",
+    "Fish oil - dietary"
+  ],
+  "target_terms": [
+    "Raynaud Disease",
+    "Raynaud Phenomenon"
+  ],
+  "source_cuis": {
+    "C0016157": "Fish Oils",
+    "C0000545": "Eicosapentaenoic Acid",
+    "C0556145": "Fish oil - dietary"
+  },
+  "target_cuis": {
+    "C0034734": "Raynaud Disease",
+    "C0034735": "Raynaud Phenomenon"
+  },
+  "neo4j_uri": "",
+  "neo4j_user": "",
+  "neo4j_password": "",
+  "neo4j_database": "",
+
+  "build_step": "all",
+  "start_date": "0001/01/01",
+  "end_date": "1985/11/01",
+  "ncbi_api_key": "",
+  "semmed_sqlite": "",
+  "neo4j_home": "",
+
+  "variant": "lw",
+  "use_llm": true,
+  "max_llm_paths": 1000000,
+  "max_paths": 1000000,
+  "llm_base_url": "",
+  "llm_model": "",
+  "llm_api_key_env": "",
+  "filter_entities": [],    
+  "allowed_entity_types": [
+    "aapp",
+    "gngm",
+    "enzy",
+    "rcpt",
+    "horm",
+    "bacs",
+    "orch",
+    "nsba",
+    "eico",
+
+    "phsf",
+    "celf",
+    "moft",
+    "patf"
+  ],
+  "relation_pairs": {
+    "cf": [
+      ["INHIBITS", "CAUSES"],
+      ["INHIBITS", "PREDISPOSES"],
+      ["STIMULATES", "TREATS"],
+      ["STIMULATES", "PREVENTS"],
+      ["AUGMENTS", "TREATS"],
+      ["AUGMENTS", "PREVENTS"],
+      ["PRODUCES", "TREATS"],
+      ["PRODUCES", "PREVENTS"]
+    ],
+    "cr": [
+      ["INHIBITS", "TREATS"],
+      ["INHIBITS", "PREVENTS"],
+      ["STIMULATES", "CAUSES"],
+      ["STIMULATES", "PREDISPOSES"],
+      ["AUGMENTS", "CAUSES"],
+      ["AUGMENTS", "PREDISPOSES"],
+      ["PRODUCES", "CAUSES"],
+      ["PRODUCES", "PREDISPOSES"]
+    ],
+    "broad": [
+      ["STIMULATES", "AFFECTS"],
+      ["STIMULATES", "ASSOCIATED_WITH"],
+      ["STIMULATES", "COEXISTS_WITH"],
+      ["AUGMENTS", "AFFECTS"],
+      ["AUGMENTS", "ASSOCIATED_WITH"],
+      ["AUGMENTS", "COEXISTS_WITH"],
+      ["PRODUCES", "AFFECTS"],
+      ["PRODUCES", "ASSOCIATED_WITH"],
+      ["PRODUCES", "COEXISTS_WITH"],
+      ["INHIBITS", "AFFECTS"],
+      ["INHIBITS", "ASSOCIATED_WITH"],
+      ["INHIBITS", "COEXISTS_WITH"],
+
+      ["AFFECTS","CAUSES"],
+      ["AFFECTS","PREDISPOSES"],
+      ["AFFECTS","TREATS"],
+      ["AFFECTS","PREVENTS"],
+
+      ["INTERACTS_WITH","CAUSES"],
+      ["INTERACTS_WITH","PREDISPOSES"],
+      ["INTERACTS_WITH","TREATS"],
+      ["INTERACTS_WITH","PREVENTS"],
+
+      ["DISRUPTS","CAUSES"],
+      ["DISRUPTS","PREDISPOSES"],
+      ["DISRUPTS","TREATS"],
+      ["DISRUPTS","PREVENTS"],
+
+      ["COEXISTS_WITH","CAUSES"],
+      ["COEXISTS_WITH","PREDISPOSES"],
+      ["COEXISTS_WITH","TREATS"],
+      ["COEXISTS_WITH","PREVENTS"],
+      
+      ["AFFECTS","AFFECTS"],
+      ["AFFECTS","ASSOCIATED_WITH"],
+      ["AFFECTS", "COEXISTS_WITH"],
+      ["INTERACTS_WITH","AFFECTS"],
+      ["INTERACTS_WITH","ASSOCIATED_WITH"],
+      ["INTERACTS_WITH","COEXISTS_WITH"],
+      ["DISRUPTS","AFFECTS"],
+      ["DISRUPTS","ASSOCIATED_WITH"],
+      ["DISRUPTS","COEXISTS_WITH"]
+    ]
+  }
+}

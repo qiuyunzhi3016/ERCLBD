@@ -1,0 +1,1694 @@
+﻿头实体类型统计
+类型,出现次数,占比(%)
+" Amino Acid, Peptide, or Protein ",2644,20.56
+ Organic Chemical ,1281,9.96
+ Therapeutic or Preventive Procedure ,1067,8.30
+ Disease or Syndrome ,952,7.40
+ Pharmacologic Substance ,701,5.45
+ Gene or Genome ,493,3.83
+ Neoplastic Process ,418,3.25
+ Biologically Active Substance ,359,2.79
+ Cell ,305,2.37
+ Diagnostic Procedure ,291,2.26
+" Body Part, Organ, or Organ Component ",290,2.26
+ Hormone ,268,2.08
+ Pathologic Function ,256,1.99
+ Laboratory Procedure ,226,1.76
+ Finding ,226,1.76
+ Inorganic Chemical ,219,1.70
+ Antibiotic ,183,1.42
+ Research Activity ,177,1.38
+ Organism Function ,160,1.24
+ Cell Function ,129,1.00
+ Sign or Symptom ,115,0.89
+ Genetic Function ,108,0.84
+ Medical Device ,108,0.84
+ Health Care Activity ,100,0.78
+ Cell Component ,90,0.70
+ Hazardous or Poisonous Substance ,84,0.65
+ Mammal ,80,0.62
+" Nucleic Acid, Nucleoside, or Nucleotide ",75,0.58
+ Tissue ,75,0.58
+ Injury or Poisoning ,66,0.51
+ Physiologic Function ,62,0.48
+ Bacterium ,61,0.47
+ Body Substance ,59,0.46
+ Human ,57,0.44
+" Element, Ion, or Isotope ",56,0.44
+ Congenital Abnormality ,55,0.43
+ Mental or Behavioral Dysfunction ,55,0.43
+ Organ or Tissue Function ,48,0.37
+ Virus ,48,0.37
+ Steroid ,40,0.31
+ Lipid ,35,0.27
+ Neuroreactive Substance or Biogenic Amine ,33,0.26
+ Carbohydrate ,33,0.26
+ Chemical Viewed Structurally ,32,0.25
+ Immunologic Factor ,31,0.24
+ Organism Attribute ,27,0.21
+ Enzyme ,27,0.21
+ Professional or Occupational Group ,27,0.21
+ Body Location or Region ,26,0.20
+ Individual Behavior ,25,0.19
+ Fungus ,23,0.18
+ Natural Phenomenon or Process ,23,0.18
+ Cell or Molecular Dysfunction ,23,0.18
+ Nucleotide Sequence ,18,0.14
+ Spatial Concept ,18,0.14
+ Chemical Viewed Functionally ,17,0.13
+ Patient or Disabled Group ,17,0.13
+ Body Space or Junction ,16,0.12
+ Biomedical or Dental Material ,16,0.12
+ Anatomical Abnormality ,15,0.12
+" Indicator, Reagent, or Diagnostic Aid ",15,0.12
+ Organophosphorus Compound ,14,0.11
+ Molecular Function ,13,0.10
+ Daily or Recreational Activity ,13,0.10
+ Substance ,12,0.09
+ Plant ,12,0.09
+ Clinical Attribute ,12,0.09
+ Phenomenon or Process ,12,0.09
+ Mental Process ,12,0.09
+ Biologic Function ,11,0.09
+ Embryonic Structure ,11,0.09
+ Molecular Biology Research Technique ,11,0.09
+ Food ,10,0.08
+ Intellectual Product ,10,0.08
+ Research Device ,10,0.08
+ Population Group ,9,0.07
+ Eicosanoid ,9,0.07
+ Invertebrate ,9,0.07
+ Acquired Abnormality ,8,0.06
+ Fish ,8,0.06
+ Health Care Related Organization ,8,0.06
+ Organism ,6,0.05
+ Family Group ,6,0.05
+ Clinical Drug ,6,0.05
+ Chemical ,5,0.04
+ Experimental Model of Disease ,5,0.04
+ Laboratory or Test Result ,4,0.03
+ Body System ,4,0.03
+ Vitamin ,4,0.03
+ Receptor ,3,0.02
+ Age Group ,3,0.02
+ Alga ,3,0.02
+ Regulation or Law ,2,0.02
+ Social Behavior ,2,0.02
+ Activity ,1,0.01
+ Behavior ,1,0.01
+ Group ,1,0.01
+ Geographic Area ,1,0.01
+ Organization ,1,0.01
+ Educational Activity ,1,0.01
+
+尾实体类型统计
+类型,出现次数,占比(%)
+" Amino Acid, Peptide, or Protein ",2210,17.19
+ Disease or Syndrome ,1148,8.93
+ Gene or Genome ,1047,8.14
+ Human ,1024,7.96
+ Organic Chemical ,738,5.74
+ Neoplastic Process ,509,3.96
+ Mammal ,480,3.73
+ Pharmacologic Substance ,466,3.62
+ Pathologic Function ,353,2.75
+ Biologically Active Substance ,309,2.40
+" Body Part, Organ, or Organ Component ",273,2.12
+ Cell ,269,2.09
+ Cell Function ,235,1.83
+ Finding ,231,1.80
+ Patient or Disabled Group ,220,1.71
+ Inorganic Chemical ,208,1.62
+ Hormone ,206,1.60
+ Therapeutic or Preventive Procedure ,187,1.45
+ Organism Function ,184,1.43
+ Antibiotic ,135,1.05
+ Genetic Function ,129,1.00
+ Medical Device ,121,0.94
+ Sign or Symptom ,117,0.91
+ Injury or Poisoning ,93,0.72
+ Natural Phenomenon or Process ,89,0.69
+ Molecular Function ,83,0.65
+" Nucleic Acid, Nucleoside, or Nucleotide ",77,0.60
+ Diagnostic Procedure ,77,0.60
+ Cell Component ,72,0.56
+ Organ or Tissue Function ,71,0.55
+ Body Substance ,70,0.54
+ Congenital Abnormality ,69,0.54
+ Temporal Concept ,65,0.51
+ Mental or Behavioral Dysfunction ,65,0.51
+ Bacterium ,60,0.47
+ Tissue ,58,0.45
+ Health Care Activity ,55,0.43
+ Population Group ,52,0.40
+ Cell or Molecular Dysfunction ,51,0.40
+" Element, Ion, or Isotope ",49,0.38
+ Quantitative Concept ,49,0.38
+ Physiologic Function ,46,0.36
+ Hazardous or Poisonous Substance ,44,0.34
+ Virus ,43,0.33
+ Acquired Abnormality ,38,0.30
+ Age Group ,37,0.29
+ Carbohydrate ,34,0.26
+ Organism Attribute ,32,0.25
+ Animal ,32,0.25
+ Anatomical Abnormality ,29,0.23
+ Fungus ,26,0.20
+ Enzyme ,26,0.20
+ Lipid ,26,0.20
+ Laboratory Procedure ,24,0.19
+" Indicator, Reagent, or Diagnostic Aid ",24,0.19
+ Chemical Viewed Structurally ,24,0.19
+ Biomedical or Dental Material ,23,0.18
+ Neuroreactive Substance or Biogenic Amine ,22,0.17
+ Steroid ,22,0.17
+ Chemical Viewed Functionally ,20,0.16
+ Immunologic Factor ,20,0.16
+ Body Space or Junction ,17,0.13
+ Invertebrate ,15,0.12
+ Fish ,15,0.12
+ Eicosanoid ,14,0.11
+ Manufactured Object ,14,0.11
+ Embryonic Structure ,12,0.09
+ Mental Process ,12,0.09
+ Organism ,12,0.09
+ Experimental Model of Disease ,10,0.08
+ Nucleotide Sequence ,10,0.08
+ Professional or Occupational Group ,9,0.07
+ Family Group ,9,0.07
+ Research Device ,8,0.06
+ Biologic Function ,7,0.05
+ Individual Behavior ,7,0.05
+ Organophosphorus Compound ,7,0.05
+ Plant ,7,0.05
+ Body System ,6,0.05
+ Body Location or Region ,6,0.05
+ Clinical Attribute ,6,0.05
+ Classification ,5,0.04
+ Research Activity ,5,0.04
+ Amphibian ,4,0.03
+ Group ,4,0.03
+ Health Care Related Organization ,4,0.03
+ Occupation or Discipline ,3,0.02
+ Receptor ,3,0.02
+ Chemical ,3,0.02
+ Spatial Concept ,3,0.02
+ Social Behavior ,3,0.02
+ Clinical Drug ,2,0.02
+ Food ,2,0.02
+ Vitamin ,2,0.02
+ Alga ,2,0.02
+ Bird ,2,0.02
+ Laboratory or Test Result ,2,0.02
+ Biomedical Occupation or Discipline ,1,0.01
+ Educational Activity ,1,0.01
+ Eukaryote ,1,0.01
+ Substance ,1,0.01
+ Organization ,1,0.01
+ Geographic Area ,1,0.01
+ Functional Concept ,1,0.01
+ Regulation or Law ,1,0.01
+ Intellectual Product ,1,0.01
+
+头尾实体对统计,,
+头实体类型,尾实体类型,出现次数,占比(%)
+" Amino Acid, Peptide, or Protein "," Amino Acid, Peptide, or Protein ",996,7.75
+" Amino Acid, Peptide, or Protein ", Gene or Genome ,357,2.78
+ Disease or Syndrome , Human ,348,2.71
+ Organic Chemical , Organic Chemical ,260,2.02
+ Organic Chemical , Gene or Genome ,256,1.99
+" Amino Acid, Peptide, or Protein ", Organic Chemical ,207,1.61
+ Organic Chemical ," Amino Acid, Peptide, or Protein ",200,1.56
+ Disease or Syndrome , Disease or Syndrome ,185,1.44
+ Therapeutic or Preventive Procedure , Pharmacologic Substance ,161,1.25
+ Therapeutic or Preventive Procedure , Disease or Syndrome ,137,1.07
+ Gene or Genome , Gene or Genome ,134,1.04
+ Therapeutic or Preventive Procedure , Therapeutic or Preventive Procedure ,126,0.98
+ Cell ," Amino Acid, Peptide, or Protein ",110,0.86
+ Neoplastic Process , Human ,109,0.85
+ Finding , Human ,102,0.79
+ Organic Chemical , Pharmacologic Substance ,102,0.79
+ Pharmacologic Substance , Disease or Syndrome ,90,0.70
+ Pharmacologic Substance , Organic Chemical ,84,0.65
+ Pharmacologic Substance ," Amino Acid, Peptide, or Protein ",81,0.63
+" Amino Acid, Peptide, or Protein ", Disease or Syndrome ,79,0.61
+ Neoplastic Process , Neoplastic Process ,77,0.60
+ Therapeutic or Preventive Procedure , Patient or Disabled Group ,75,0.58
+" Amino Acid, Peptide, or Protein ", Cell ,73,0.57
+" Amino Acid, Peptide, or Protein ", Pharmacologic Substance ,73,0.57
+" Amino Acid, Peptide, or Protein ", Hormone ,72,0.56
+ Disease or Syndrome , Mammal ,70,0.54
+" Amino Acid, Peptide, or Protein ", Biologically Active Substance ,70,0.54
+" Amino Acid, Peptide, or Protein ", Inorganic Chemical ,69,0.54
+ Diagnostic Procedure , Disease or Syndrome ,68,0.53
+" Amino Acid, Peptide, or Protein ", Cell Function ,68,0.53
+" Amino Acid, Peptide, or Protein ", Neoplastic Process ,68,0.53
+ Hormone ," Amino Acid, Peptide, or Protein ",65,0.51
+ Therapeutic or Preventive Procedure ," Amino Acid, Peptide, or Protein ",63,0.49
+ Therapeutic or Preventive Procedure , Human ,61,0.47
+ Pharmacologic Substance , Mammal ,61,0.47
+ Pathologic Function , Disease or Syndrome ,61,0.47
+ Biologically Active Substance ," Amino Acid, Peptide, or Protein ",60,0.47
+ Gene or Genome ," Amino Acid, Peptide, or Protein ",60,0.47
+ Therapeutic or Preventive Procedure , Neoplastic Process ,57,0.44
+ Pharmacologic Substance , Gene or Genome ,57,0.44
+ Finding , Disease or Syndrome ,55,0.43
+ Neoplastic Process ," Amino Acid, Peptide, or Protein ",51,0.40
+ Pathologic Function , Human ,50,0.39
+ Therapeutic or Preventive Procedure , Pathologic Function ,49,0.38
+ Gene or Genome , Neoplastic Process ,49,0.38
+ Laboratory Procedure , Disease or Syndrome ,48,0.37
+ Sign or Symptom , Human ,47,0.37
+ Therapeutic or Preventive Procedure , Mammal ,47,0.37
+ Disease or Syndrome , Pathologic Function ,44,0.34
+ Inorganic Chemical ," Amino Acid, Peptide, or Protein ",44,0.34
+" Body Part, Organ, or Organ Component "," Amino Acid, Peptide, or Protein ",43,0.33
+" Amino Acid, Peptide, or Protein "," Body Part, Organ, or Organ Component ",42,0.33
+ Hormone , Gene or Genome ,42,0.33
+ Antibiotic , Antibiotic ,39,0.30
+ Hormone , Hormone ,38,0.30
+ Pharmacologic Substance , Pharmacologic Substance ,37,0.29
+ Biologically Active Substance , Biologically Active Substance ,37,0.29
+ Disease or Syndrome ," Amino Acid, Peptide, or Protein ",37,0.29
+ Organic Chemical , Inorganic Chemical ,37,0.29
+ Disease or Syndrome , Finding ,35,0.27
+ Therapeutic or Preventive Procedure , Diagnostic Procedure ,35,0.27
+ Research Activity , Temporal Concept ,35,0.27
+ Pharmacologic Substance , Patient or Disabled Group ,35,0.27
+ Organic Chemical , Disease or Syndrome ,34,0.26
+ Laboratory Procedure ," Amino Acid, Peptide, or Protein ",34,0.26
+" Body Part, Organ, or Organ Component "," Body Part, Organ, or Organ Component ",34,0.26
+ Organism Function , Mammal ,34,0.26
+" Amino Acid, Peptide, or Protein "," Nucleic Acid, Nucleoside, or Nucleotide ",33,0.26
+ Diagnostic Procedure , Human ,33,0.26
+ Inorganic Chemical , Gene or Genome ,33,0.26
+" Body Part, Organ, or Organ Component ", Mammal ,32,0.25
+ Neoplastic Process , Gene or Genome ,32,0.25
+ Gene or Genome , Cell Function ,31,0.24
+" Amino Acid, Peptide, or Protein ", Pathologic Function ,31,0.24
+ Antibiotic ," Amino Acid, Peptide, or Protein ",31,0.24
+ Pathologic Function , Pathologic Function ,30,0.23
+ Sign or Symptom , Disease or Syndrome ,29,0.23
+ Organic Chemical , Pathologic Function ,29,0.23
+ Biologically Active Substance , Cell ,28,0.22
+ Research Activity , Quantitative Concept ,28,0.22
+ Pharmacologic Substance , Human ,27,0.21
+ Organic Chemical , Antibiotic ,27,0.21
+ Cell Function ," Amino Acid, Peptide, or Protein ",27,0.21
+ Diagnostic Procedure , Neoplastic Process ,27,0.21
+ Therapeutic or Preventive Procedure , Medical Device ,27,0.21
+ Diagnostic Procedure , Pathologic Function ,26,0.20
+ Organic Chemical , Human ,26,0.20
+ Inorganic Chemical , Organic Chemical ,26,0.20
+ Tissue ," Amino Acid, Peptide, or Protein ",26,0.20
+ Pharmacologic Substance , Pathologic Function ,25,0.19
+ Injury or Poisoning , Human ,25,0.19
+ Gene or Genome , Cell ,25,0.19
+ Gene or Genome , Disease or Syndrome ,25,0.19
+" Amino Acid, Peptide, or Protein ", Antibiotic ,25,0.19
+" Nucleic Acid, Nucleoside, or Nucleotide "," Amino Acid, Peptide, or Protein ",25,0.19
+ Cell ," Body Part, Organ, or Organ Component ",24,0.19
+" Amino Acid, Peptide, or Protein ", Cell Component ,24,0.19
+ Inorganic Chemical , Inorganic Chemical ,24,0.19
+ Neoplastic Process , Mammal ,24,0.19
+ Health Care Activity , Disease or Syndrome ,24,0.19
+" Amino Acid, Peptide, or Protein ", Natural Phenomenon or Process ,24,0.19
+ Organic Chemical , Finding ,24,0.19
+ Hormone , Mammal ,24,0.19
+ Organism Function , Organism Function ,24,0.19
+ Organic Chemical , Mammal ,23,0.18
+" Amino Acid, Peptide, or Protein ", Mammal ,23,0.18
+ Medical Device , Medical Device ,23,0.18
+ Therapeutic or Preventive Procedure , Finding ,23,0.18
+ Pharmacologic Substance , Neoplastic Process ,23,0.18
+ Bacterium , Disease or Syndrome ,23,0.18
+ Cell Component ," Amino Acid, Peptide, or Protein ",22,0.17
+ Disease or Syndrome , Patient or Disabled Group ,22,0.17
+ Organic Chemical , Hormone ,22,0.17
+ Gene or Genome , Biologically Active Substance ,22,0.17
+ Mammal ," Body Part, Organ, or Organ Component ",22,0.17
+ Cell , Cell ,21,0.16
+" Amino Acid, Peptide, or Protein ", Organism Function ,21,0.16
+ Antibiotic , Gene or Genome ,21,0.16
+ Research Activity , Medical Device ,21,0.16
+" Body Part, Organ, or Organ Component ", Neoplastic Process ,20,0.16
+" Body Part, Organ, or Organ Component ", Disease or Syndrome ,20,0.16
+ Therapeutic or Preventive Procedure , Antibiotic ,20,0.16
+" Amino Acid, Peptide, or Protein ", Human ,20,0.16
+ Antibiotic , Organic Chemical ,20,0.16
+ Organism Function , Human ,20,0.16
+ Organic Chemical , Cell Function ,20,0.16
+ Diagnostic Procedure , Finding ,20,0.16
+ Cell , Mammal ,20,0.16
+ Cell , Biologically Active Substance ,19,0.15
+" Body Part, Organ, or Organ Component ", Pathologic Function ,19,0.15
+" Amino Acid, Peptide, or Protein ", Genetic Function ,19,0.15
+ Gene or Genome , Genetic Function ,19,0.15
+ Pharmacologic Substance , Finding ,19,0.15
+" Amino Acid, Peptide, or Protein ", Tissue ,19,0.15
+ Neoplastic Process ," Body Part, Organ, or Organ Component ",19,0.15
+ Mammal ," Amino Acid, Peptide, or Protein ",19,0.15
+" Amino Acid, Peptide, or Protein ", Molecular Function ,19,0.15
+ Therapeutic or Preventive Procedure , Injury or Poisoning ,19,0.15
+ Cell Function , Cell Function ,19,0.15
+ Body Substance ," Amino Acid, Peptide, or Protein ",18,0.14
+ Biologically Active Substance , Disease or Syndrome ,18,0.14
+ Organic Chemical ," Body Part, Organ, or Organ Component ",18,0.14
+ Hormone , Disease or Syndrome ,18,0.14
+ Disease or Syndrome , Bacterium ,18,0.14
+ Antibiotic , Disease or Syndrome ,18,0.14
+ Therapeutic or Preventive Procedure , Sign or Symptom ,18,0.14
+ Human ," Amino Acid, Peptide, or Protein ",17,0.13
+ Laboratory Procedure , Finding ,17,0.13
+ Pathologic Function , Mammal ,17,0.13
+ Pathologic Function ," Amino Acid, Peptide, or Protein ",17,0.13
+ Organic Chemical , Molecular Function ,17,0.13
+ Pharmacologic Substance , Hormone ,17,0.13
+ Biologically Active Substance , Gene or Genome ,17,0.13
+" Body Part, Organ, or Organ Component ", Cell ,16,0.12
+ Health Care Activity , Human ,16,0.12
+ Genetic Function , Gene or Genome ,16,0.12
+ Spatial Concept , Cell ,16,0.12
+" Amino Acid, Peptide, or Protein ", Chemical Viewed Functionally ,16,0.12
+ Disease or Syndrome , Health Care Activity ,16,0.12
+ Organism Attribute , Disease or Syndrome ,16,0.12
+ Organic Chemical , Organism Function ,16,0.12
+ Laboratory Procedure , Pharmacologic Substance ,16,0.12
+ Gene or Genome , Organic Chemical ,16,0.12
+ Finding , Finding ,16,0.12
+ Therapeutic or Preventive Procedure , Acquired Abnormality ,16,0.12
+ Diagnostic Procedure , Diagnostic Procedure ,16,0.12
+ Genetic Function ," Amino Acid, Peptide, or Protein ",15,0.12
+ Organism Function , Temporal Concept ,15,0.12
+ Organism Function , Disease or Syndrome ,15,0.12
+ Organic Chemical , Biologically Active Substance ,15,0.12
+ Disease or Syndrome , Organism Function ,15,0.12
+ Hormone , Organic Chemical ,15,0.12
+ Disease or Syndrome , Biologically Active Substance ,15,0.12
+ Cell , Gene or Genome ,15,0.12
+ Therapeutic or Preventive Procedure , Health Care Activity ,14,0.11
+ Virus , Disease or Syndrome ,14,0.11
+ Biologically Active Substance , Genetic Function ,14,0.11
+ Therapeutic or Preventive Procedure , Organism Attribute ,14,0.11
+ Biologically Active Substance , Organic Chemical ,14,0.11
+ Organic Chemical , Neoplastic Process ,14,0.11
+ Biologically Active Substance , Neoplastic Process ,14,0.11
+ Medical Device , Manufactured Object ,14,0.11
+" Amino Acid, Peptide, or Protein ", Enzyme ,13,0.10
+ Medical Device , Disease or Syndrome ,13,0.10
+ Enzyme ," Amino Acid, Peptide, or Protein ",13,0.10
+ Inorganic Chemical ," Element, Ion, or Isotope ",13,0.10
+" Element, Ion, or Isotope ", Inorganic Chemical ,13,0.10
+ Laboratory Procedure , Laboratory Procedure ,13,0.10
+" Body Part, Organ, or Organ Component ", Organic Chemical ,13,0.10
+ Research Activity ," Amino Acid, Peptide, or Protein ",13,0.10
+ Bacterium ," Amino Acid, Peptide, or Protein ",13,0.10
+ Pharmacologic Substance , Molecular Function ,13,0.10
+ Laboratory Procedure , Neoplastic Process ,13,0.10
+ Health Care Activity , Pharmacologic Substance ,13,0.10
+ Therapeutic or Preventive Procedure , Age Group ,13,0.10
+ Health Care Activity , Diagnostic Procedure ,13,0.10
+ Disease or Syndrome , Gene or Genome ,13,0.10
+ Individual Behavior , Human ,12,0.09
+ Cell , Neoplastic Process ,12,0.09
+ Physiologic Function ," Body Part, Organ, or Organ Component ",12,0.09
+ Neoplastic Process , Genetic Function ,12,0.09
+ Genetic Function , Neoplastic Process ,12,0.09
+ Finding , Neoplastic Process ,12,0.09
+ Diagnostic Procedure , Medical Device ,12,0.09
+ Pharmacologic Substance , Sign or Symptom ,12,0.09
+ Biologically Active Substance , Inorganic Chemical ,12,0.09
+ Mental or Behavioral Dysfunction , Mental or Behavioral Dysfunction ,12,0.09
+ Organic Chemical , Cell ,12,0.09
+ Disease or Syndrome , Sign or Symptom ,12,0.09
+ Biologically Active Substance , Mammal ,12,0.09
+ Organ or Tissue Function , Mammal ,12,0.09
+" Amino Acid, Peptide, or Protein ", Organ or Tissue Function ,12,0.09
+ Neoplastic Process , Biologically Active Substance ,12,0.09
+ Sign or Symptom , Sign or Symptom ,12,0.09
+ Diagnostic Procedure , Quantitative Concept ,12,0.09
+ Bacterium , Bacterium ,12,0.09
+ Organ or Tissue Function , Human ,11,0.09
+ Cell Function , Biologically Active Substance ,11,0.09
+ Genetic Function , Disease or Syndrome ,11,0.09
+" Amino Acid, Peptide, or Protein ", Physiologic Function ,11,0.09
+ Organic Chemical , Sign or Symptom ,11,0.09
+ Pathologic Function , Finding ,11,0.09
+ Mental or Behavioral Dysfunction , Human ,11,0.09
+ Organic Chemical , Injury or Poisoning ,11,0.09
+ Congenital Abnormality , Congenital Abnormality ,11,0.09
+ Virus , Virus ,11,0.09
+ Mammal , Cell ,11,0.09
+" Amino Acid, Peptide, or Protein ", Body Substance ,11,0.09
+ Therapeutic or Preventive Procedure , Carbohydrate ,10,0.08
+" Body Part, Organ, or Organ Component ", Finding ,10,0.08
+ Tissue ," Body Part, Organ, or Organ Component ",10,0.08
+ Hazardous or Poisonous Substance , Disease or Syndrome ,10,0.08
+ Therapeutic or Preventive Procedure , Organism Function ,10,0.08
+ Cell Function , Cell ,10,0.08
+ Therapeutic or Preventive Procedure , Organic Chemical ,10,0.08
+" Amino Acid, Peptide, or Protein ", Carbohydrate ,10,0.08
+ Research Activity , Therapeutic or Preventive Procedure ,10,0.08
+ Pathologic Function , Neoplastic Process ,10,0.08
+ Medical Device , Patient or Disabled Group ,10,0.08
+ Mental Process , Mammal ,10,0.08
+ Patient or Disabled Group , Medical Device ,10,0.08
+ Neoplastic Process , Tissue ,10,0.08
+ Inorganic Chemical , Biologically Active Substance ,10,0.08
+ Research Device , Neoplastic Process ,10,0.08
+ Cell Component , Cell Component ,9,0.07
+" Amino Acid, Peptide, or Protein ", Bacterium ,9,0.07
+ Congenital Abnormality , Human ,9,0.07
+ Cell , Cell Function ,9,0.07
+ Gene or Genome , Cell Component ,9,0.07
+ Research Activity , Disease or Syndrome ,9,0.07
+ Disease or Syndrome , Neoplastic Process ,9,0.07
+ Body Location or Region ," Body Part, Organ, or Organ Component ",9,0.07
+ Genetic Function , Biologically Active Substance ,9,0.07
+ Cell , Human ,9,0.07
+ Biologically Active Substance ," Nucleic Acid, Nucleoside, or Nucleotide ",9,0.07
+ Pharmacologic Substance , Age Group ,9,0.07
+ Steroid ," Amino Acid, Peptide, or Protein ",9,0.07
+ Genetic Function , Genetic Function ,9,0.07
+ Antibiotic , Pharmacologic Substance ,9,0.07
+ Finding , Pathologic Function ,9,0.07
+ Cell , Organic Chemical ,9,0.07
+ Pharmacologic Substance , Population Group ,9,0.07
+ Pharmacologic Substance , Organism Function ,9,0.07
+ Professional or Occupational Group , Patient or Disabled Group ,9,0.07
+ Immunologic Factor , Disease or Syndrome ,9,0.07
+ Gene or Genome , Pathologic Function ,9,0.07
+ Tissue , Neoplastic Process ,9,0.07
+ Diagnostic Procedure , Health Care Activity ,9,0.07
+ Laboratory Procedure , Temporal Concept ,9,0.07
+" Amino Acid, Peptide, or Protein ", Fungus ,8,0.06
+ Cell Component , Gene or Genome ,8,0.06
+ Fungus ," Amino Acid, Peptide, or Protein ",8,0.06
+ Biologically Active Substance , Molecular Function ,8,0.06
+ Neoplastic Process , Disease or Syndrome ,8,0.06
+ Antibiotic , Patient or Disabled Group ,8,0.06
+ Research Activity , Neoplastic Process ,8,0.06
+ Health Care Activity , Health Care Activity ,8,0.06
+ Hormone , Pharmacologic Substance ,8,0.06
+" Amino Acid, Peptide, or Protein ", Cell or Molecular Dysfunction ,8,0.06
+ Neoplastic Process , Pathologic Function ,8,0.06
+ Pharmacologic Substance , Inorganic Chemical ,8,0.06
+ Gene or Genome , Organism Function ,8,0.06
+ Cell Function , Neoplastic Process ,8,0.06
+" Amino Acid, Peptide, or Protein ", Finding ,8,0.06
+ Biologically Active Substance , Natural Phenomenon or Process ,8,0.06
+ Finding , Sign or Symptom ,8,0.06
+ Phenomenon or Process , Disease or Syndrome ,8,0.06
+ Cell Function , Organism Function ,8,0.06
+ Finding ," Body Part, Organ, or Organ Component ",8,0.06
+ Neoplastic Process , Cell ,8,0.06
+" Body Part, Organ, or Organ Component ", Human ,8,0.06
+ Laboratory Procedure , Quantitative Concept ,8,0.06
+ Lipid ," Amino Acid, Peptide, or Protein ",7,0.05
+ Pharmacologic Substance ," Body Part, Organ, or Organ Component ",7,0.05
+ Biologically Active Substance , Fungus ,7,0.05
+" Amino Acid, Peptide, or Protein ", Eicosanoid ,7,0.05
+ Pharmacologic Substance , Cell Function ,7,0.05
+ Organic Chemical , Patient or Disabled Group ,7,0.05
+" Amino Acid, Peptide, or Protein ", Hazardous or Poisonous Substance ,7,0.05
+" Amino Acid, Peptide, or Protein ", Biomedical or Dental Material ,7,0.05
+ Disease or Syndrome , Genetic Function ,7,0.05
+ Mammal , Organic Chemical ,7,0.05
+" Amino Acid, Peptide, or Protein ", Sign or Symptom ,7,0.05
+ Physiologic Function ," Amino Acid, Peptide, or Protein ",7,0.05
+" Element, Ion, or Isotope ", Biologically Active Substance ,7,0.05
+ Biologically Active Substance , Cell Function ,7,0.05
+ Chemical Viewed Functionally , Disease or Syndrome ,7,0.05
+ Physiologic Function , Mammal ,7,0.05
+ Pharmacologic Substance , Cell ,7,0.05
+ Organic Chemical , Hazardous or Poisonous Substance ,7,0.05
+ Medical Device , Pharmacologic Substance ,7,0.05
+ Pathologic Function , Gene or Genome ,7,0.05
+ Disease or Syndrome , Congenital Abnormality ,7,0.05
+ Hazardous or Poisonous Substance , Neoplastic Process ,7,0.05
+ Laboratory Procedure , Therapeutic or Preventive Procedure ,7,0.05
+ Organ or Tissue Function , Organism Function ,7,0.05
+ Therapeutic or Preventive Procedure , Population Group ,7,0.05
+ Pharmacologic Substance , Cell or Molecular Dysfunction ,7,0.05
+ Organic Chemical , Physiologic Function ,7,0.05
+ Biologically Active Substance , Pathologic Function ,7,0.05
+" Amino Acid, Peptide, or Protein ", Mental or Behavioral Dysfunction ,7,0.05
+ Inorganic Chemical , Pharmacologic Substance ,7,0.05
+ Hormone , Inorganic Chemical ,7,0.05
+ Gene or Genome , Molecular Function ,7,0.05
+ Mammal , Mammal ,7,0.05
+ Disease or Syndrome , Animal ,7,0.05
+ Human ," Body Part, Organ, or Organ Component ",7,0.05
+ Pathologic Function ," Body Part, Organ, or Organ Component ",7,0.05
+" Body Part, Organ, or Organ Component ", Congenital Abnormality ,7,0.05
+ Sign or Symptom , Finding ,7,0.05
+ Cell , Virus ,7,0.05
+" Amino Acid, Peptide, or Protein "," Element, Ion, or Isotope ",6,0.05
+ Pharmacologic Substance , Injury or Poisoning ,6,0.05
+ Fungus , Biologically Active Substance ,6,0.05
+" Nucleic Acid, Nucleoside, or Nucleotide ", Genetic Function ,6,0.05
+ Pharmacologic Substance , Antibiotic ,6,0.05
+" Body Part, Organ, or Organ Component ", Biologically Active Substance ,6,0.05
+ Therapeutic or Preventive Procedure , Anatomical Abnormality ,6,0.05
+ Carbohydrate ," Amino Acid, Peptide, or Protein ",6,0.05
+ Neoplastic Process , Patient or Disabled Group ,6,0.05
+ Disease or Syndrome , Cell Function ,6,0.05
+ Biomedical or Dental Material ," Amino Acid, Peptide, or Protein ",6,0.05
+" Element, Ion, or Isotope ", Cell Function ,6,0.05
+ Organic Chemical ," Nucleic Acid, Nucleoside, or Nucleotide ",6,0.05
+ Organism Attribute , Organism Function ,6,0.05
+ Health Care Activity , Finding ,6,0.05
+ Steroid , Hormone ,6,0.05
+ Therapeutic or Preventive Procedure , Congenital Abnormality ,6,0.05
+ Medical Device , Therapeutic or Preventive Procedure ,6,0.05
+ Disease or Syndrome , Injury or Poisoning ,6,0.05
+ Health Care Activity , Therapeutic or Preventive Procedure ,6,0.05
+ Congenital Abnormality , Disease or Syndrome ,6,0.05
+ Organic Chemical , Mental or Behavioral Dysfunction ,6,0.05
+ Cell Function , Mammal ,6,0.05
+ Research Activity , Research Device ,6,0.05
+ Gene or Genome , Hormone ,6,0.05
+ Laboratory Procedure , Medical Device ,6,0.05
+ Diagnostic Procedure , Injury or Poisoning ,6,0.05
+ Bacterium , Biologically Active Substance ,6,0.05
+ Organism Function , Cell Function ,6,0.05
+ Biologically Active Substance ," Body Part, Organ, or Organ Component ",6,0.05
+ Hormone , Pathologic Function ,6,0.05
+ Cell Function , Genetic Function ,6,0.05
+ Physiologic Function , Human ,6,0.05
+ Gene or Genome ," Body Part, Organ, or Organ Component ",6,0.05
+ Injury or Poisoning , Disease or Syndrome ,6,0.05
+ Hormone , Neoplastic Process ,6,0.05
+ Virus , Mammal ,6,0.05
+ Biologically Active Substance , Chemical Viewed Structurally ,6,0.05
+ Diagnostic Procedure , Patient or Disabled Group ,6,0.05
+ Pharmacologic Substance , Organ or Tissue Function ,6,0.05
+ Biologically Active Substance , Organism Function ,6,0.05
+ Gene or Genome , Cell or Molecular Dysfunction ,6,0.05
+" Amino Acid, Peptide, or Protein ", Mental Process ,6,0.05
+ Hormone , Patient or Disabled Group ,6,0.05
+ Organic Chemical , Natural Phenomenon or Process ,6,0.05
+ Human , Cell ,6,0.05
+ Cell , Fish ,6,0.05
+ Anatomical Abnormality , Congenital Abnormality ,6,0.05
+" Body Part, Organ, or Organ Component ", Gene or Genome ,6,0.05
+ Medical Device , Mammal ,6,0.05
+ Laboratory Procedure , Genetic Function ,6,0.05
+ Body Substance , Disease or Syndrome ,6,0.05
+ Congenital Abnormality , Anatomical Abnormality ,6,0.05
+ Disease or Syndrome , Body Substance ,6,0.05
+" Body Part, Organ, or Organ Component ", Injury or Poisoning ,5,0.04
+ Genetic Function , Human ,5,0.04
+ Anatomical Abnormality , Disease or Syndrome ,5,0.04
+ Laboratory Procedure , Body Substance ,5,0.04
+ Organism Function , Biologically Active Substance ,5,0.04
+ Hazardous or Poisonous Substance ," Amino Acid, Peptide, or Protein ",5,0.04
+ Mammal , Hazardous or Poisonous Substance ,5,0.04
+ Eicosanoid ," Amino Acid, Peptide, or Protein ",5,0.04
+ Cell Component , Cell ,5,0.04
+ Diagnostic Procedure , Temporal Concept ,5,0.04
+ Body Substance , Biologically Active Substance ,5,0.04
+" Body Part, Organ, or Organ Component ", Body Substance ,5,0.04
+" Nucleic Acid, Nucleoside, or Nucleotide ", Biologically Active Substance ,5,0.04
+ Biologically Active Substance , Physiologic Function ,5,0.04
+ Physiologic Function , Organism Function ,5,0.04
+ Cell , Body Substance ,5,0.04
+ Body Substance , Organic Chemical ,5,0.04
+ Cell Component , Cell Function ,5,0.04
+ Neoplastic Process , Population Group ,5,0.04
+ Cell Function , Natural Phenomenon or Process ,5,0.04
+ Body Substance , Body Substance ,5,0.04
+ Body Substance ," Body Part, Organ, or Organ Component ",5,0.04
+ Genetic Function , Cell Function ,5,0.04
+ Sign or Symptom , Pathologic Function ,5,0.04
+" Amino Acid, Peptide, or Protein ", Therapeutic or Preventive Procedure ,5,0.04
+ Clinical Attribute , Disease or Syndrome ,5,0.04
+ Biologically Active Substance , Human ,5,0.04
+" Nucleic Acid, Nucleoside, or Nucleotide "," Nucleic Acid, Nucleoside, or Nucleotide ",5,0.04
+ Daily or Recreational Activity , Human ,5,0.04
+ Injury or Poisoning , Pathologic Function ,5,0.04
+ Professional or Occupational Group , Disease or Syndrome ,5,0.04
+ Laboratory Procedure ," Indicator, Reagent, or Diagnostic Aid ",5,0.04
+ Antibiotic ," Nucleic Acid, Nucleoside, or Nucleotide ",5,0.04
+ Diagnostic Procedure ," Indicator, Reagent, or Diagnostic Aid ",5,0.04
+ Organic Chemical , Organ or Tissue Function ,5,0.04
+ Hazardous or Poisonous Substance , Cell or Molecular Dysfunction ,5,0.04
+ Biomedical or Dental Material , Biomedical or Dental Material ,5,0.04
+ Neuroreactive Substance or Biogenic Amine , Organic Chemical ,5,0.04
+ Inorganic Chemical , Hormone ,5,0.04
+ Injury or Poisoning , Injury or Poisoning ,5,0.04
+ Diagnostic Procedure ," Element, Ion, or Isotope ",5,0.04
+ Pathologic Function , Injury or Poisoning ,5,0.04
+ Diagnostic Procedure , Congenital Abnormality ,5,0.04
+ Chemical Viewed Structurally , Organic Chemical ,5,0.04
+ Gene or Genome , Inorganic Chemical ,5,0.04
+ Biologically Active Substance , Lipid ,5,0.04
+ Hormone , Human ,5,0.04
+ Individual Behavior , Neoplastic Process ,5,0.04
+" Body Part, Organ, or Organ Component ", Hormone ,5,0.04
+ Gene or Genome , Pharmacologic Substance ,5,0.04
+ Organism Function , Mental or Behavioral Dysfunction ,5,0.04
+ Disease or Syndrome , Population Group ,5,0.04
+ Disease or Syndrome , Virus ,5,0.04
+ Physiologic Function , Natural Phenomenon or Process ,5,0.04
+ Lipid , Biologically Active Substance ,5,0.04
+ Injury or Poisoning ," Body Part, Organ, or Organ Component ",5,0.04
+ Disease or Syndrome , Hormone ,5,0.04
+" Body Part, Organ, or Organ Component ", Tissue ,5,0.04
+ Cell or Molecular Dysfunction ," Amino Acid, Peptide, or Protein ",5,0.04
+ Inorganic Chemical ," Body Part, Organ, or Organ Component ",5,0.04
+ Fish , Fish ,5,0.04
+" Body Part, Organ, or Organ Component ", Sign or Symptom ,5,0.04
+ Research Activity , Body Substance ,5,0.04
+ Laboratory Procedure , Organic Chemical ,5,0.04
+ Gene or Genome , Mammal ,5,0.04
+" Amino Acid, Peptide, or Protein ", Congenital Abnormality ,5,0.04
+ Molecular Biology Research Technique ," Amino Acid, Peptide, or Protein ",5,0.04
+ Chemical Viewed Structurally , Biologically Active Substance ,5,0.04
+ Substance , Pathologic Function ,4,0.03
+ Molecular Function , Disease or Syndrome ,4,0.03
+ Chemical Viewed Functionally ," Amino Acid, Peptide, or Protein ",4,0.03
+ Immunologic Factor ," Amino Acid, Peptide, or Protein ",4,0.03
+ Hazardous or Poisonous Substance , Cell Function ,4,0.03
+ Medical Device , Anatomical Abnormality ,4,0.03
+ Fungus , Fungus ,4,0.03
+ Plant ," Amino Acid, Peptide, or Protein ",4,0.03
+ Biologically Active Substance ," Element, Ion, or Isotope ",4,0.03
+ Cell , Immunologic Factor ,4,0.03
+ Carbohydrate , Patient or Disabled Group ,4,0.03
+ Neuroreactive Substance or Biogenic Amine , Mammal ,4,0.03
+ Inorganic Chemical , Pathologic Function ,4,0.03
+ Professional or Occupational Group , Neoplastic Process ,4,0.03
+ Cell , Genetic Function ,4,0.03
+ Organism Function , Physiologic Function ,4,0.03
+" Amino Acid, Peptide, or Protein ", Immunologic Factor ,4,0.03
+ Body Location or Region , Disease or Syndrome ,4,0.03
+ Diagnostic Procedure , Therapeutic or Preventive Procedure ,4,0.03
+ Inorganic Chemical , Natural Phenomenon or Process ,4,0.03
+ Organism Function , Natural Phenomenon or Process ,4,0.03
+ Organic Chemical , Genetic Function ,4,0.03
+ Research Activity , Genetic Function ,4,0.03
+" Element, Ion, or Isotope ", Organic Chemical ,4,0.03
+ Research Activity , Organic Chemical ,4,0.03
+ Pathologic Function , Patient or Disabled Group ,4,0.03
+ Neoplastic Process , Experimental Model of Disease ,4,0.03
+ Biologically Active Substance , Organ or Tissue Function ,4,0.03
+ Organic Chemical , Medical Device ,4,0.03
+ Hazardous or Poisonous Substance , Hazardous or Poisonous Substance ,4,0.03
+ Organism Function , Organ or Tissue Function ,4,0.03
+ Disease or Syndrome , Mental or Behavioral Dysfunction ,4,0.03
+ Organic Chemical , Steroid ,4,0.03
+" Amino Acid, Peptide, or Protein ", Organophosphorus Compound ,4,0.03
+ Biologically Active Substance , Injury or Poisoning ,4,0.03
+ Biologically Active Substance , Pharmacologic Substance ,4,0.03
+ Medical Device , Injury or Poisoning ,4,0.03
+ Diagnostic Procedure , Pharmacologic Substance ,4,0.03
+ Pharmacologic Substance , Biologically Active Substance ,4,0.03
+ Laboratory Procedure ," Element, Ion, or Isotope ",4,0.03
+ Gene or Genome , Natural Phenomenon or Process ,4,0.03
+ Organism Function , Invertebrate ,4,0.03
+ Disease or Syndrome , Organism ,4,0.03
+ Hormone , Steroid ,4,0.03
+ Pharmacologic Substance , Mental or Behavioral Dysfunction ,4,0.03
+ Pathologic Function , Cell Function ,4,0.03
+ Cell Function , Human ,4,0.03
+ Disease or Syndrome , Immunologic Factor ,4,0.03
+ Organic Chemical , Lipid ,4,0.03
+ Steroid , Organic Chemical ,4,0.03
+ Antibiotic , Mammal ,4,0.03
+ Organic Chemical , Therapeutic or Preventive Procedure ,4,0.03
+" Amino Acid, Peptide, or Protein ", Lipid ,4,0.03
+ Organ or Tissue Function , Disease or Syndrome ,4,0.03
+ Antibiotic , Human ,4,0.03
+ Molecular Function , Gene or Genome ,4,0.03
+ Neoplastic Process , Animal ,4,0.03
+ Lipid , Disease or Syndrome ,4,0.03
+" Amino Acid, Peptide, or Protein ", Patient or Disabled Group ,4,0.03
+ Disease or Syndrome , Acquired Abnormality ,4,0.03
+ Immunologic Factor , Human ,4,0.03
+ Organic Chemical ," Indicator, Reagent, or Diagnostic Aid ",4,0.03
+ Immunologic Factor , Mammal ,4,0.03
+ Antibiotic , Neoplastic Process ,4,0.03
+ Hazardous or Poisonous Substance , Mammal ,4,0.03
+" Amino Acid, Peptide, or Protein ", Body System ,4,0.03
+ Physiologic Function , Organic Chemical ,4,0.03
+ Research Activity , Pharmacologic Substance ,4,0.03
+ Individual Behavior , Individual Behavior ,4,0.03
+" Nucleic Acid, Nucleoside, or Nucleotide ", Cell Function ,4,0.03
+ Neoplastic Process , Hormone ,4,0.03
+ Biologically Active Substance , Body Substance ,4,0.03
+ Hazardous or Poisonous Substance , Plant ,4,0.03
+ Human , Body Substance ,4,0.03
+ Mental or Behavioral Dysfunction ," Amino Acid, Peptide, or Protein ",4,0.03
+ Gene or Genome , Antibiotic ,4,0.03
+ Body Substance , Human ,4,0.03
+ Injury or Poisoning , Sign or Symptom ,4,0.03
+ Plant , Hazardous or Poisonous Substance ,4,0.03
+ Cell Component , Organism Function ,4,0.03
+ Pathologic Function , Sign or Symptom ,4,0.03
+ Cell , Bacterium ,4,0.03
+" Body Part, Organ, or Organ Component ", Inorganic Chemical ,4,0.03
+ Mental or Behavioral Dysfunction , Organism Function ,4,0.03
+ Mental or Behavioral Dysfunction , Congenital Abnormality ,4,0.03
+ Hazardous or Poisonous Substance , Neuroreactive Substance or Biogenic Amine ,4,0.03
+ Inorganic Chemical , Finding ,4,0.03
+ Congenital Abnormality , Mental or Behavioral Dysfunction ,4,0.03
+ Neuroreactive Substance or Biogenic Amine , Hazardous or Poisonous Substance ,4,0.03
+ Organic Chemical , Chemical Viewed Structurally ,4,0.03
+ Diagnostic Procedure , Body Substance ,4,0.03
+ Natural Phenomenon or Process , Physiologic Function ,4,0.03
+ Neoplastic Process , Cell Function ,4,0.03
+ Body Substance , Cell ,3,0.02
+ Cell Component , Biologically Active Substance ,3,0.02
+" Element, Ion, or Isotope ", Finding ,3,0.02
+ Pharmacologic Substance , Genetic Function ,3,0.02
+ Neuroreactive Substance or Biogenic Amine , Neuroreactive Substance or Biogenic Amine ,3,0.02
+ Anatomical Abnormality , Anatomical Abnormality ,3,0.02
+ Cell , Tissue ,3,0.02
+" Body Part, Organ, or Organ Component "," Element, Ion, or Isotope ",3,0.02
+ Disease or Syndrome , Professional or Occupational Group ,3,0.02
+ Genetic Function , Organism Function ,3,0.02
+ Biologically Active Substance , Cell Component ,3,0.02
+ Pathologic Function , Diagnostic Procedure ,3,0.02
+ Intellectual Product , Disease or Syndrome ,3,0.02
+ Pathologic Function , Mental or Behavioral Dysfunction ,3,0.02
+ Cell Function , Disease or Syndrome ,3,0.02
+ Physiologic Function , Biologically Active Substance ,3,0.02
+ Food , Pathologic Function ,3,0.02
+ Cell Component ," Body Part, Organ, or Organ Component ",3,0.02
+ Disease or Syndrome , Molecular Function ,3,0.02
+ Substance , Disease or Syndrome ,3,0.02
+" Body Part, Organ, or Organ Component ", Anatomical Abnormality ,3,0.02
+" Nucleic Acid, Nucleoside, or Nucleotide ", Cell Component ,3,0.02
+" Element, Ion, or Isotope ", Organism Function ,3,0.02
+ Tissue , Mammal ,3,0.02
+ Organism Function ," Amino Acid, Peptide, or Protein ",3,0.02
+ Natural Phenomenon or Process , Organism Function ,3,0.02
+" Element, Ion, or Isotope ", Cell ,3,0.02
+ Body Location or Region , Finding ,3,0.02
+ Natural Phenomenon or Process , Cell Function ,3,0.02
+ Hazardous or Poisonous Substance , Molecular Function ,3,0.02
+ Health Care Activity , Pathologic Function ,3,0.02
+ Biologic Function , Human ,3,0.02
+" Nucleic Acid, Nucleoside, or Nucleotide ", Pharmacologic Substance ,3,0.02
+ Organic Chemical , Cell Component ,3,0.02
+ Diagnostic Procedure , Sign or Symptom ,3,0.02
+" Body Part, Organ, or Organ Component ", Eicosanoid ,3,0.02
+ Antibiotic , Inorganic Chemical ,3,0.02
+ Laboratory Procedure , Cell or Molecular Dysfunction ,3,0.02
+ Mental or Behavioral Dysfunction , Patient or Disabled Group ,3,0.02
+ Organophosphorus Compound , Human ,3,0.02
+ Carbohydrate , Human ,3,0.02
+ Therapeutic or Preventive Procedure , Biologically Active Substance ,3,0.02
+ Organic Chemical , Enzyme ,3,0.02
+ Population Group , Medical Device ,3,0.02
+ Phenomenon or Process , Natural Phenomenon or Process ,3,0.02
+ Inorganic Chemical , Cell Function ,3,0.02
+ Inorganic Chemical , Organism Function ,3,0.02
+ Pathologic Function , Organ or Tissue Function ,3,0.02
+" Amino Acid, Peptide, or Protein ", Biologic Function ,3,0.02
+ Biologically Active Substance , Therapeutic or Preventive Procedure ,3,0.02
+ Diagnostic Procedure , Organism Function ,3,0.02
+ Hazardous or Poisonous Substance , Inorganic Chemical ,3,0.02
+ Lipid , Cell Function ,3,0.02
+ Organic Chemical , Animal ,3,0.02
+ Gene or Genome , Mental or Behavioral Dysfunction ,3,0.02
+ Natural Phenomenon or Process , Natural Phenomenon or Process ,3,0.02
+ Organic Chemical , Neuroreactive Substance or Biogenic Amine ,3,0.02
+ Professional or Occupational Group , Medical Device ,3,0.02
+ Invertebrate , Invertebrate ,3,0.02
+" Amino Acid, Peptide, or Protein ", Steroid ,3,0.02
+" Amino Acid, Peptide, or Protein ", Injury or Poisoning ,3,0.02
+ Gene or Genome , Finding ,3,0.02
+ Cell , Organism Function ,3,0.02
+" Element, Ion, or Isotope "," Amino Acid, Peptide, or Protein ",3,0.02
+ Inorganic Chemical , Cell ,3,0.02
+ Mental or Behavioral Dysfunction , Disease or Syndrome ,3,0.02
+ Pharmacologic Substance , Steroid ,3,0.02
+ Professional or Occupational Group , Classification ,3,0.02
+ Carbohydrate , Carbohydrate ,3,0.02
+ Virus , Human ,3,0.02
+ Inorganic Chemical , Injury or Poisoning ,3,0.02
+ Hormone , Organ or Tissue Function ,3,0.02
+ Organophosphorus Compound , Organic Chemical ,3,0.02
+ Biologically Active Substance , Cell or Molecular Dysfunction ,3,0.02
+ Finding , Mental or Behavioral Dysfunction ,3,0.02
+ Steroid , Gene or Genome ,3,0.02
+ Chemical Viewed Functionally , Pathologic Function ,3,0.02
+ Health Care Activity , Sign or Symptom ,3,0.02
+ Enzyme , Human ,3,0.02
+ Daily or Recreational Activity , Finding ,3,0.02
+ Nucleotide Sequence , Pathologic Function ,3,0.02
+ Pharmacologic Substance , Therapeutic or Preventive Procedure ,3,0.02
+ Cell , Hormone ,3,0.02
+ Finding , Patient or Disabled Group ,3,0.02
+ Medical Device , Sign or Symptom ,3,0.02
+ Inorganic Chemical , Biomedical or Dental Material ,3,0.02
+ Medical Device , Finding ,3,0.02
+ Hazardous or Poisonous Substance , Injury or Poisoning ,3,0.02
+ Congenital Abnormality , Body Space or Junction ,3,0.02
+ Invertebrate ," Amino Acid, Peptide, or Protein ",3,0.02
+ Human , Hormone ,3,0.02
+ Human , Body Space or Junction ,3,0.02
+ Injury or Poisoning , Tissue ,3,0.02
+ Human , Tissue ,3,0.02
+ Congenital Abnormality ," Body Part, Organ, or Organ Component ",3,0.02
+ Finding , Body Space or Junction ,3,0.02
+ Disease or Syndrome , Organism Attribute ,3,0.02
+ Neoplastic Process , Body Location or Region ,3,0.02
+ Disease or Syndrome ," Body Part, Organ, or Organ Component ",3,0.02
+ Organism , Disease or Syndrome ,3,0.02
+ Body Location or Region , Neoplastic Process ,3,0.02
+" Amino Acid, Peptide, or Protein ", Invertebrate ,3,0.02
+ Clinical Drug , Disease or Syndrome ,3,0.02
+ Tissue , Human ,3,0.02
+ Gene or Genome , Virus ,3,0.02
+ Tissue , Injury or Poisoning ,3,0.02
+ Biologically Active Substance , Embryonic Structure ,3,0.02
+ Cell Component , Mammal ,3,0.02
+ Body Location or Region , Diagnostic Procedure ,3,0.02
+ Body Space or Junction , Congenital Abnormality ,3,0.02
+ Body Space or Junction , Human ,3,0.02
+ Body Space or Junction , Finding ,3,0.02
+ Organism Function , Population Group ,3,0.02
+ Congenital Abnormality , Population Group ,3,0.02
+ Embryonic Structure , Gene or Genome ,3,0.02
+ Body Space or Junction , Body Space or Junction ,3,0.02
+ Health Care Related Organization , Laboratory Procedure ,3,0.02
+ Laboratory Procedure , Biologically Active Substance ,3,0.02
+ Hazardous or Poisonous Substance , Organic Chemical ,3,0.02
+ Antibiotic , Cell Component ,3,0.02
+ Health Care Activity , Medical Device ,3,0.02
+ Biologically Active Substance , Finding ,3,0.02
+ Cell Component , Antibiotic ,3,0.02
+ Virus , Biologically Active Substance ,3,0.02
+ Cell Function , Cell or Molecular Dysfunction ,3,0.02
+ Research Activity , Biologically Active Substance ,3,0.02
+ Biologically Active Substance , Virus ,3,0.02
+ Disease or Syndrome , Organ or Tissue Function ,3,0.02
+ Therapeutic or Preventive Procedure , Organ or Tissue Function ,3,0.02
+ Organic Chemical , Clinical Attribute ,3,0.02
+ Congenital Abnormality , Age Group ,3,0.02
+ Embryonic Structure , Cell ,3,0.02
+ Intellectual Product , Neoplastic Process ,3,0.02
+" Indicator, Reagent, or Diagnostic Aid ", Organic Chemical ,3,0.02
+ Research Activity , Organism Function ,3,0.02
+ Neuroreactive Substance or Biogenic Amine , Chemical Viewed Structurally ,3,0.02
+ Disease or Syndrome , Social Behavior ,3,0.02
+ Disease or Syndrome , Cell ,3,0.02
+ Hazardous or Poisonous Substance , Organism Function ,3,0.02
+ Cell Function , Pathologic Function ,3,0.02
+ Cell or Molecular Dysfunction , Cell Function ,3,0.02
+ Physiologic Function , Virus ,3,0.02
+ Organism Function , Organism Attribute ,3,0.02
+ Chemical Viewed Structurally , Neuroreactive Substance or Biogenic Amine ,3,0.02
+ Mental or Behavioral Dysfunction , Population Group ,3,0.02
+ Research Activity , Organism Attribute ,3,0.02
+ Family Group , Population Group ,3,0.02
+ Cell Component , Fungus ,2,0.02
+ Hazardous or Poisonous Substance , Sign or Symptom ,2,0.02
+ Genetic Function , Molecular Function ,2,0.02
+ Genetic Function , Fungus ,2,0.02
+ Nucleotide Sequence ," Nucleic Acid, Nucleoside, or Nucleotide ",2,0.02
+ Neoplastic Process , Finding ,2,0.02
+ Injury or Poisoning , Patient or Disabled Group ,2,0.02
+ Organic Chemical , Carbohydrate ,2,0.02
+ Patient or Disabled Group ," Amino Acid, Peptide, or Protein ",2,0.02
+ Health Care Activity , Patient or Disabled Group ,2,0.02
+ Therapeutic or Preventive Procedure ," Element, Ion, or Isotope ",2,0.02
+ Organism Attribute , Genetic Function ,2,0.02
+ Disease or Syndrome , Tissue ,2,0.02
+ Neuroreactive Substance or Biogenic Amine ," Body Part, Organ, or Organ Component ",2,0.02
+ Neuroreactive Substance or Biogenic Amine , Bacterium ,2,0.02
+ Natural Phenomenon or Process , Disease or Syndrome ,2,0.02
+ Physiologic Function , Disease or Syndrome ,2,0.02
+ Body Location or Region , Laboratory Procedure ,2,0.02
+ Cell Component , Body Substance ,2,0.02
+ Neuroreactive Substance or Biogenic Amine , Tissue ,2,0.02
+ Therapeutic or Preventive Procedure , Cell Function ,2,0.02
+ Disease or Syndrome , Natural Phenomenon or Process ,2,0.02
+" Nucleic Acid, Nucleoside, or Nucleotide ", Inorganic Chemical ,2,0.02
+ Therapeutic or Preventive Procedure , Bacterium ,2,0.02
+ Cell ," Element, Ion, or Isotope ",2,0.02
+" Body Part, Organ, or Organ Component ", Hazardous or Poisonous Substance ,2,0.02
+ Hazardous or Poisonous Substance , Finding ,2,0.02
+ Pharmacologic Substance , Bacterium ,2,0.02
+" Element, Ion, or Isotope "," Body Part, Organ, or Organ Component ",2,0.02
+ Cell Component ," Nucleic Acid, Nucleoside, or Nucleotide ",2,0.02
+ Body System , Therapeutic or Preventive Procedure ,2,0.02
+ Organic Chemical ," Element, Ion, or Isotope ",2,0.02
+ Hazardous or Poisonous Substance ," Body Part, Organ, or Organ Component ",2,0.02
+ Genetic Function , Cell Component ,2,0.02
+" Body Part, Organ, or Organ Component ", Body Space or Junction ,2,0.02
+ Immunologic Factor , Cell ,2,0.02
+ Genetic Function , Organism Attribute ,2,0.02
+ Disease or Syndrome , Physiologic Function ,2,0.02
+ Inorganic Chemical ," Nucleic Acid, Nucleoside, or Nucleotide ",2,0.02
+ Laboratory Procedure , Acquired Abnormality ,2,0.02
+ Hazardous or Poisonous Substance , Pathologic Function ,2,0.02
+ Medical Device , Pathologic Function ,2,0.02
+ Hormone , Molecular Function ,2,0.02
+" Element, Ion, or Isotope ", Pathologic Function ,2,0.02
+ Neoplastic Process , Cell or Molecular Dysfunction ,2,0.02
+ Therapeutic or Preventive Procedure , Family Group ,2,0.02
+ Neuroreactive Substance or Biogenic Amine , Sign or Symptom ,2,0.02
+ Organism Function , Age Group ,2,0.02
+ Organophosphorus Compound , Gene or Genome ,2,0.02
+ Gene or Genome , Mental Process ,2,0.02
+ Gene or Genome , Physiologic Function ,2,0.02
+ Cell or Molecular Dysfunction , Disease or Syndrome ,2,0.02
+" Nucleic Acid, Nucleoside, or Nucleotide ", Therapeutic or Preventive Procedure ,2,0.02
+ Natural Phenomenon or Process , Neoplastic Process ,2,0.02
+ Steroid , Inorganic Chemical ,2,0.02
+ Inorganic Chemical , Therapeutic or Preventive Procedure ,2,0.02
+ Cell Function , Immunologic Factor ,2,0.02
+ Diagnostic Procedure , Mental or Behavioral Dysfunction ,2,0.02
+ Biologically Active Substance , Hormone ,2,0.02
+ Cell , Carbohydrate ,2,0.02
+ Tissue , Body Substance ,2,0.02
+ Gene or Genome , Therapeutic or Preventive Procedure ,2,0.02
+ Laboratory Procedure , Pathologic Function ,2,0.02
+ Carbohydrate , Biologically Active Substance ,2,0.02
+ Finding , Age Group ,2,0.02
+ Nucleotide Sequence , Gene or Genome ,2,0.02
+ Medical Device , Population Group ,2,0.02
+" Amino Acid, Peptide, or Protein ", Chemical Viewed Structurally ,2,0.02
+ Genetic Function , Sign or Symptom ,2,0.02
+ Medical Device , Human ,2,0.02
+ Gene or Genome ," Nucleic Acid, Nucleoside, or Nucleotide ",2,0.02
+ Hormone , Animal ,2,0.02
+ Hormone , Organism Function ,2,0.02
+ Steroid , Disease or Syndrome ,2,0.02
+ Steroid , Pharmacologic Substance ,2,0.02
+ Laboratory Procedure , Virus ,2,0.02
+ Mental or Behavioral Dysfunction , Animal ,2,0.02
+ Acquired Abnormality , Human ,2,0.02
+ Cell Function , Organ or Tissue Function ,2,0.02
+ Carbohydrate , Cell Function ,2,0.02
+ Cell ," Nucleic Acid, Nucleoside, or Nucleotide ",2,0.02
+ Pathologic Function , Organism Function ,2,0.02
+" Amino Acid, Peptide, or Protein "," Indicator, Reagent, or Diagnostic Aid ",2,0.02
+ Laboratory Procedure , Anatomical Abnormality ,2,0.02
+ Therapeutic or Preventive Procedure , Research Activity ,2,0.02
+ Therapeutic or Preventive Procedure , Mental or Behavioral Dysfunction ,2,0.02
+ Pathologic Function , Natural Phenomenon or Process ,2,0.02
+ Inorganic Chemical ," Indicator, Reagent, or Diagnostic Aid ",2,0.02
+ Cell or Molecular Dysfunction , Genetic Function ,2,0.02
+ Pharmacologic Substance , Animal ,2,0.02
+" Amino Acid, Peptide, or Protein ", Acquired Abnormality ,2,0.02
+ Natural Phenomenon or Process , Organ or Tissue Function ,2,0.02
+ Cell or Molecular Dysfunction , Organism Function ,2,0.02
+ Pathologic Function , Congenital Abnormality ,2,0.02
+ Steroid , Pathologic Function ,2,0.02
+ Inorganic Chemical , Antibiotic ,2,0.02
+ Daily or Recreational Activity , Disease or Syndrome ,2,0.02
+ Clinical Drug , Human ,2,0.02
+ Therapeutic or Preventive Procedure , Clinical Drug ,2,0.02
+ Finding , Group ,2,0.02
+ Organophosphorus Compound ," Amino Acid, Peptide, or Protein ",2,0.02
+" Nucleic Acid, Nucleoside, or Nucleotide ", Organic Chemical ,2,0.02
+ Organ or Tissue Function , Animal ,2,0.02
+ Chemical Viewed Structurally ," Amino Acid, Peptide, or Protein ",2,0.02
+ Biologic Function , Natural Phenomenon or Process ,2,0.02
+ Carbohydrate , Cell ,2,0.02
+ Gene or Genome , Immunologic Factor ,2,0.02
+ Biologically Active Substance , Nucleotide Sequence ,2,0.02
+ Mental or Behavioral Dysfunction , Mammal ,2,0.02
+ Regulation or Law , Professional or Occupational Group ,2,0.02
+ Nucleotide Sequence , Neoplastic Process ,2,0.02
+ Physiologic Function , Organism Attribute ,2,0.02
+" Nucleic Acid, Nucleoside, or Nucleotide ", Gene or Genome ,2,0.02
+ Gene or Genome , Injury or Poisoning ,2,0.02
+ Invertebrate , Disease or Syndrome ,2,0.02
+ Hormone , Cell Function ,2,0.02
+ Pharmacologic Substance , Acquired Abnormality ,2,0.02
+ Pharmacologic Substance , Physiologic Function ,2,0.02
+ Organic Chemical , Cell or Molecular Dysfunction ,2,0.02
+ Gene or Genome , Eicosanoid ,2,0.02
+ Gene or Genome , Neuroreactive Substance or Biogenic Amine ,2,0.02
+ Chemical Viewed Structurally , Chemical Viewed Structurally ,2,0.02
+ Therapeutic or Preventive Procedure , Lipid ,2,0.02
+ Neoplastic Process , Virus ,2,0.02
+ Enzyme , Cell ,2,0.02
+ Virus ," Nucleic Acid, Nucleoside, or Nucleotide ",2,0.02
+ Injury or Poisoning , Biologically Active Substance ,2,0.02
+ Steroid , Human ,2,0.02
+ Lipid , Tissue ,2,0.02
+ Fungus , Cell Component ,2,0.02
+ Molecular Function , Cell ,2,0.02
+" Nucleic Acid, Nucleoside, or Nucleotide ", Nucleotide Sequence ,2,0.02
+ Therapeutic or Preventive Procedure ," Body Part, Organ, or Organ Component ",2,0.02
+ Genetic Function , Cell ,2,0.02
+ Human , Congenital Abnormality ,2,0.02
+ Organic Chemical , Body Substance ,2,0.02
+ Tissue , Cell ,2,0.02
+ Inorganic Chemical , Disease or Syndrome ,2,0.02
+ Carbohydrate , Disease or Syndrome ,2,0.02
+ Sign or Symptom , Neoplastic Process ,2,0.02
+ Antibiotic , Hormone ,2,0.02
+ Body Substance , Pathologic Function ,2,0.02
+ Antibiotic , Health Care Activity ,2,0.02
+ Body Substance , Inorganic Chemical ,2,0.02
+ Human , Steroid ,2,0.02
+ Human , Pharmacologic Substance ,2,0.02
+ Human , Human ,2,0.02
+ Experimental Model of Disease , Mammal ,2,0.02
+ Cell , Molecular Function ,2,0.02
+" Nucleic Acid, Nucleoside, or Nucleotide ", Cell or Molecular Dysfunction ,2,0.02
+ Cell or Molecular Dysfunction , Human ,2,0.02
+ Plant , Plant ,2,0.02
+ Human , Medical Device ,2,0.02
+ Cell Component , Natural Phenomenon or Process ,2,0.02
+ Cell Component , Bacterium ,2,0.02
+ Cell Function , Amphibian ,2,0.02
+ Biologic Function , Bacterium ,2,0.02
+ Injury or Poisoning , Age Group ,2,0.02
+ Lipid , Lipid ,2,0.02
+ Tissue , Lipid ,2,0.02
+" Nucleic Acid, Nucleoside, or Nucleotide ", Virus ,2,0.02
+ Lipid , Organic Chemical ,2,0.02
+ Health Care Related Organization , Diagnostic Procedure ,2,0.02
+ Human , Biologically Active Substance ,2,0.02
+ Sign or Symptom , Patient or Disabled Group ,2,0.02
+ Mental or Behavioral Dysfunction , Age Group ,2,0.02
+ Population Group , Gene or Genome ,2,0.02
+ Plant ," Element, Ion, or Isotope ",2,0.02
+" Indicator, Reagent, or Diagnostic Aid ", Inorganic Chemical ,2,0.02
+ Chemical Viewed Structurally , Inorganic Chemical ,2,0.02
+" Nucleic Acid, Nucleoside, or Nucleotide ", Natural Phenomenon or Process ,2,0.02
+ Diagnostic Procedure , Organism Attribute ,2,0.02
+ Inorganic Chemical , Hazardous or Poisonous Substance ,2,0.02
+ Organ or Tissue Function ," Amino Acid, Peptide, or Protein ",2,0.02
+ Laboratory Procedure , Antibiotic ,2,0.02
+ Steroid , Antibiotic ,2,0.02
+" Amino Acid, Peptide, or Protein ", Embryonic Structure ,2,0.02
+ Therapeutic or Preventive Procedure , Hormone ,2,0.02
+ Research Activity , Organ or Tissue Function ,2,0.02
+ Laboratory Procedure , Hormone ,2,0.02
+" Indicator, Reagent, or Diagnostic Aid "," Indicator, Reagent, or Diagnostic Aid ",2,0.02
+ Mammal , Hormone ,2,0.02
+ Laboratory Procedure , Congenital Abnormality ,2,0.02
+ Hormone ," Body Part, Organ, or Organ Component ",2,0.02
+ Embryonic Structure ," Amino Acid, Peptide, or Protein ",2,0.02
+ Organism , Organism ,2,0.02
+ Nucleotide Sequence , Nucleotide Sequence ,2,0.02
+ Research Activity , Natural Phenomenon or Process ,2,0.02
+ Chemical Viewed Structurally , Natural Phenomenon or Process ,2,0.02
+ Therapeutic or Preventive Procedure , Occupation or Discipline ,2,0.02
+ Embryonic Structure , Embryonic Structure ,2,0.02
+ Cell , Inorganic Chemical ,2,0.02
+" Nucleic Acid, Nucleoside, or Nucleotide ", Chemical Viewed Structurally ,2,0.02
+ Disease or Syndrome , Diagnostic Procedure ,2,0.02
+ Nucleotide Sequence , Natural Phenomenon or Process ,2,0.02
+ Acquired Abnormality , Mammal ,2,0.02
+ Medical Device , Inorganic Chemical ,2,0.02
+ Virus ," Amino Acid, Peptide, or Protein ",2,0.02
+ Experimental Model of Disease , Neoplastic Process ,2,0.02
+ Hazardous or Poisonous Substance , Chemical Viewed Structurally ,2,0.02
+ Clinical Attribute , Acquired Abnormality ,2,0.02
+ Finding , Organ or Tissue Function ,2,0.02
+ Clinical Attribute , Neoplastic Process ,2,0.02
+ Research Activity , Hormone ,2,0.02
+ Research Activity , Pathologic Function ,2,0.02
+ Diagnostic Procedure , Organ or Tissue Function ,2,0.02
+ Daily or Recreational Activity , Sign or Symptom ,2,0.02
+ Food , Cell Function ,2,0.02
+ Cell Component , Biomedical or Dental Material ,2,0.02
+ Laboratory Procedure , Biomedical or Dental Material ,2,0.02
+ Chemical Viewed Structurally ," Nucleic Acid, Nucleoside, or Nucleotide ",2,0.02
+" Body Part, Organ, or Organ Component ", Medical Device ,2,0.02
+" Amino Acid, Peptide, or Protein ", Virus ,2,0.02
+ Biomedical or Dental Material , Cell Component ,2,0.02
+ Research Activity , Antibiotic ,2,0.02
+ Tissue , Laboratory Procedure ,2,0.02
+ Chemical Viewed Structurally , Hazardous or Poisonous Substance ,2,0.02
+ Carbohydrate , Organism Function ,2,0.02
+ Antibiotic , Steroid ,2,0.02
+ Therapeutic or Preventive Procedure , Inorganic Chemical ,2,0.02
+ Organ or Tissue Function , Finding ,2,0.02
+ Biologic Function , Invertebrate ,1,0.01
+ Pharmacologic Substance , Embryonic Structure ,1,0.01
+ Therapeutic or Preventive Procedure , Embryonic Structure ,1,0.01
+ Body Space or Junction , Body Substance ,1,0.01
+ Biologically Active Substance , Biologic Function ,1,0.01
+" Body Part, Organ, or Organ Component ", Biologic Function ,1,0.01
+ Sign or Symptom , Individual Behavior ,1,0.01
+ Molecular Function , Organism Function ,1,0.01
+ Nucleotide Sequence , Cell Component ,1,0.01
+" Body Part, Organ, or Organ Component ", Therapeutic or Preventive Procedure ,1,0.01
+" Element, Ion, or Isotope ", Neoplastic Process ,1,0.01
+ Therapeutic or Preventive Procedure , Tissue ,1,0.01
+ Neoplastic Process , Body System ,1,0.01
+ Antibiotic , Carbohydrate ,1,0.01
+ Tissue , Tissue ,1,0.01
+ Population Group ," Amino Acid, Peptide, or Protein ",1,0.01
+ Carbohydrate , Organic Chemical ,1,0.01
+ Food , Inorganic Chemical ,1,0.01
+ Body Space or Junction ," Body Part, Organ, or Organ Component ",1,0.01
+ Tissue , Bacterium ,1,0.01
+ Food , Finding ,1,0.01
+ Mental or Behavioral Dysfunction , Pathologic Function ,1,0.01
+ Chemical Viewed Structurally , Neoplastic Process ,1,0.01
+ Therapeutic or Preventive Procedure , Biomedical Occupation or Discipline ,1,0.01
+ Biologic Function , Fish ,1,0.01
+ Gene or Genome , Fungus ,1,0.01
+ Physiologic Function , Molecular Function ,1,0.01
+ Mammal , Neuroreactive Substance or Biogenic Amine ,1,0.01
+ Tissue , Disease or Syndrome ,1,0.01
+ Eicosanoid , Biologically Active Substance ,1,0.01
+ Cell Component , Genetic Function ,1,0.01
+ Research Activity , Biomedical or Dental Material ,1,0.01
+ Lipid , Fungus ,1,0.01
+ Physiologic Function , Genetic Function ,1,0.01
+ Organic Chemical , Biomedical or Dental Material ,1,0.01
+" Element, Ion, or Isotope ", Natural Phenomenon or Process ,1,0.01
+ Eicosanoid , Enzyme ,1,0.01
+ Laboratory or Test Result , Disease or Syndrome ,1,0.01
+ Biomedical or Dental Material , Organic Chemical ,1,0.01
+ Biomedical or Dental Material , Disease or Syndrome ,1,0.01
+" Body Part, Organ, or Organ Component ", Neuroreactive Substance or Biogenic Amine ,1,0.01
+" Body Part, Organ, or Organ Component ", Pharmacologic Substance ,1,0.01
+ Lipid , Cell Component ,1,0.01
+ Organic Chemical , Bacterium ,1,0.01
+ Cell Component , Lipid ,1,0.01
+ Bacterium , Organic Chemical ,1,0.01
+ Enzyme , Eicosanoid ,1,0.01
+ Therapeutic or Preventive Procedure , Hazardous or Poisonous Substance ,1,0.01
+ Organism Function , Genetic Function ,1,0.01
+ Research Activity ," Element, Ion, or Isotope ",1,0.01
+" Body Part, Organ, or Organ Component ", Bacterium ,1,0.01
+ Biologically Active Substance , Enzyme ,1,0.01
+ Bacterium , Neuroreactive Substance or Biogenic Amine ,1,0.01
+ Enzyme , Biologically Active Substance ,1,0.01
+ Laboratory Procedure , Occupation or Discipline ,1,0.01
+ Neoplastic Process , Professional or Occupational Group ,1,0.01
+ Disease or Syndrome , Organic Chemical ,1,0.01
+ Substance , Molecular Function ,1,0.01
+ Laboratory or Test Result , Pathologic Function ,1,0.01
+ Genetic Function , Physiologic Function ,1,0.01
+ Tissue , Neuroreactive Substance or Biogenic Amine ,1,0.01
+ Hazardous or Poisonous Substance , Natural Phenomenon or Process ,1,0.01
+ Biologically Active Substance , Eicosanoid ,1,0.01
+ Fungus , Lipid ,1,0.01
+ Cell Function , Experimental Model of Disease ,1,0.01
+" Amino Acid, Peptide, or Protein ", Experimental Model of Disease ,1,0.01
+ Physiologic Function , Organ or Tissue Function ,1,0.01
+ Medical Device ," Element, Ion, or Isotope ",1,0.01
+ Enzyme , Organic Chemical ,1,0.01
+ Therapeutic or Preventive Procedure ," Nucleic Acid, Nucleoside, or Nucleotide ",1,0.01
+ Neuroreactive Substance or Biogenic Amine , Cell Function ,1,0.01
+ Organism Function , Immunologic Factor ,1,0.01
+ Inorganic Chemical , Enzyme ,1,0.01
+ Fungus , Animal ,1,0.01
+ Disease or Syndrome , Therapeutic or Preventive Procedure ,1,0.01
+" Body Part, Organ, or Organ Component ", Lipid ,1,0.01
+ Organ or Tissue Function , Fish ,1,0.01
+ Chemical , Hazardous or Poisonous Substance ,1,0.01
+ Inorganic Chemical , Carbohydrate ,1,0.01
+ Natural Phenomenon or Process , Injury or Poisoning ,1,0.01
+ Food , Disease or Syndrome ,1,0.01
+ Receptor , Molecular Function ,1,0.01
+ Physiologic Function , Bacterium ,1,0.01
+ Hazardous or Poisonous Substance , Animal ,1,0.01
+ Cell Function , Physiologic Function ,1,0.01
+ Antibiotic , Organism Function ,1,0.01
+ Organism ," Amino Acid, Peptide, or Protein ",1,0.01
+ Carbohydrate , Animal ,1,0.01
+ Eicosanoid , Animal ,1,0.01
+ Gene or Genome , Laboratory Procedure ,1,0.01
+ Neuroreactive Substance or Biogenic Amine , Pathologic Function ,1,0.01
+ Neoplastic Process , Neuroreactive Substance or Biogenic Amine ,1,0.01
+ Activity , Pharmacologic Substance ,1,0.01
+ Therapeutic or Preventive Procedure , Chemical Viewed Functionally ,1,0.01
+ Enzyme , Chemical Viewed Functionally ,1,0.01
+ Invertebrate , Neoplastic Process ,1,0.01
+ Vitamin , Enzyme ,1,0.01
+ Steroid , Organ or Tissue Function ,1,0.01
+ Cell Function , Body Substance ,1,0.01
+ Diagnostic Procedure , Educational Activity ,1,0.01
+ Organophosphorus Compound , Organism Function ,1,0.01
+ Biologic Function , Mammal ,1,0.01
+" Element, Ion, or Isotope ", Cell or Molecular Dysfunction ,1,0.01
+ Antibiotic , Organ or Tissue Function ,1,0.01
+ Organophosphorus Compound , Organophosphorus Compound ,1,0.01
+ Cell Function , Enzyme ,1,0.01
+ Organic Chemical , Experimental Model of Disease ,1,0.01
+ Therapeutic or Preventive Procedure , Cell or Molecular Dysfunction ,1,0.01
+ Hazardous or Poisonous Substance , Cell Component ,1,0.01
+ Inorganic Chemical , Cell or Molecular Dysfunction ,1,0.01
+ Cell or Molecular Dysfunction , Eukaryote ,1,0.01
+ Organic Chemical , Receptor ,1,0.01
+ Mental Process , Population Group ,1,0.01
+ Hazardous or Poisonous Substance , Embryonic Structure ,1,0.01
+ Age Group , Disease or Syndrome ,1,0.01
+ Pathologic Function , Amphibian ,1,0.01
+ Inorganic Chemical , Organism ,1,0.01
+ Laboratory Procedure , Health Care Activity ,1,0.01
+ Organic Chemical , Population Group ,1,0.01
+ Hazardous or Poisonous Substance , Genetic Function ,1,0.01
+ Neuroreactive Substance or Biogenic Amine , Mental or Behavioral Dysfunction ,1,0.01
+ Lipid , Enzyme ,1,0.01
+ Disease or Syndrome , Cell or Molecular Dysfunction ,1,0.01
+ Organophosphorus Compound , Hormone ,1,0.01
+ Neuroreactive Substance or Biogenic Amine , Genetic Function ,1,0.01
+ Organism Function , Amphibian ,1,0.01
+ Hazardous or Poisonous Substance , Lipid ,1,0.01
+ Sign or Symptom , Mental or Behavioral Dysfunction ,1,0.01
+ Neoplastic Process , Organism ,1,0.01
+ Neoplastic Process , Organ or Tissue Function ,1,0.01
+ Organic Chemical , Anatomical Abnormality ,1,0.01
+ Family Group , Family Group ,1,0.01
+ Immunologic Factor , Immunologic Factor ,1,0.01
+ Molecular Function , Cell Function ,1,0.01
+ Genetic Function , Bacterium ,1,0.01
+" Amino Acid, Peptide, or Protein ", Nucleotide Sequence ,1,0.01
+ Organic Chemical , Acquired Abnormality ,1,0.01
+ Chemical Viewed Functionally , Chemical Viewed Functionally ,1,0.01
+ Enzyme , Gene or Genome ,1,0.01
+" Element, Ion, or Isotope ", Physiologic Function ,1,0.01
+" Element, Ion, or Isotope ", Disease or Syndrome ,1,0.01
+ Tissue , Organic Chemical ,1,0.01
+" Element, Ion, or Isotope ", Hazardous or Poisonous Substance ,1,0.01
+ Nucleotide Sequence , Mental Process ,1,0.01
+ Virus , Organism ,1,0.01
+ Acquired Abnormality , Organism Function ,1,0.01
+ Enzyme , Mammal ,1,0.01
+ Organ or Tissue Function , Professional or Occupational Group ,1,0.01
+ Congenital Abnormality , Pathologic Function ,1,0.01
+ Organism Function , Animal ,1,0.01
+ Sign or Symptom , Population Group ,1,0.01
+ Laboratory or Test Result , Sign or Symptom ,1,0.01
+" Indicator, Reagent, or Diagnostic Aid ", Biologically Active Substance ,1,0.01
+ Hormone , Medical Device ,1,0.01
+ Cell Component , Hormone ,1,0.01
+ Patient or Disabled Group , Population Group ,1,0.01
+ Hazardous or Poisonous Substance , Therapeutic or Preventive Procedure ,1,0.01
+ Pharmacologic Substance , Family Group ,1,0.01
+ Laboratory or Test Result , Neoplastic Process ,1,0.01
+" Amino Acid, Peptide, or Protein ", Neuroreactive Substance or Biogenic Amine ,1,0.01
+ Gene or Genome , Body Location or Region ,1,0.01
+ Organic Chemical , Organophosphorus Compound ,1,0.01
+ Immunologic Factor , Molecular Function ,1,0.01
+ Enzyme , Genetic Function ,1,0.01
+ Mental or Behavioral Dysfunction , Organ or Tissue Function ,1,0.01
+ Hormone ," Indicator, Reagent, or Diagnostic Aid ",1,0.01
+ Pathologic Function , Invertebrate ,1,0.01
+ Chemical , Organic Chemical ,1,0.01
+ Anatomical Abnormality , Acquired Abnormality ,1,0.01
+ Immunologic Factor , Organ or Tissue Function ,1,0.01
+ Antibiotic , Animal ,1,0.01
+ Neuroreactive Substance or Biogenic Amine , Disease or Syndrome ,1,0.01
+ Diagnostic Procedure , Professional or Occupational Group ,1,0.01
+ Sign or Symptom , Injury or Poisoning ,1,0.01
+ Pharmacologic Substance ," Nucleic Acid, Nucleoside, or Nucleotide ",1,0.01
+ Clinical Drug , Population Group ,1,0.01
+ Genetic Function , Organ or Tissue Function ,1,0.01
+ Medical Device , Antibiotic ,1,0.01
+ Organic Chemical , Embryonic Structure ,1,0.01
+ Cell Function , Animal ,1,0.01
+ Virus , Pathologic Function ,1,0.01
+ Behavior , Individual Behavior ,1,0.01
+ Genetic Function , Immunologic Factor ,1,0.01
+ Biologically Active Substance , Hazardous or Poisonous Substance ,1,0.01
+ Cell or Molecular Dysfunction , Finding ,1,0.01
+ Injury or Poisoning , Organ or Tissue Function ,1,0.01
+ Diagnostic Procedure , Anatomical Abnormality ,1,0.01
+ Gene or Genome , Steroid ,1,0.01
+ Vitamin , Disease or Syndrome ,1,0.01
+ Substance , Substance ,1,0.01
+ Acquired Abnormality , Injury or Poisoning ,1,0.01
+ Disease or Syndrome , Experimental Model of Disease ,1,0.01
+ Organism Function , Hormone ,1,0.01
+ Pharmacologic Substance , Diagnostic Procedure ,1,0.01
+ Chemical Viewed Structurally , Disease or Syndrome ,1,0.01
+ Laboratory Procedure , Mental or Behavioral Dysfunction ,1,0.01
+ Carbohydrate , Physiologic Function ,1,0.01
+" Indicator, Reagent, or Diagnostic Aid ", Disease or Syndrome ,1,0.01
+ Antibiotic , Injury or Poisoning ,1,0.01
+ Cell Component , Steroid ,1,0.01
+ Carbohydrate , Natural Phenomenon or Process ,1,0.01
+ Pharmacologic Substance , Virus ,1,0.01
+ Inorganic Chemical , Organ or Tissue Function ,1,0.01
+ Cell or Molecular Dysfunction , Neoplastic Process ,1,0.01
+ Vitamin , Pathologic Function ,1,0.01
+" Nucleic Acid, Nucleoside, or Nucleotide ", Congenital Abnormality ,1,0.01
+ Hormone , Age Group ,1,0.01
+ Steroid , Genetic Function ,1,0.01
+ Steroid ," Body Part, Organ, or Organ Component ",1,0.01
+ Hazardous or Poisonous Substance , Mental or Behavioral Dysfunction ,1,0.01
+ Enzyme , Enzyme ,1,0.01
+" Element, Ion, or Isotope ", Human ,1,0.01
+" Indicator, Reagent, or Diagnostic Aid ", Gene or Genome ,1,0.01
+ Receptor , Genetic Function ,1,0.01
+ Individual Behavior , Mental or Behavioral Dysfunction ,1,0.01
+ Antibiotic , Mental or Behavioral Dysfunction ,1,0.01
+ Lipid , Finding ,1,0.01
+ Inorganic Chemical , Organophosphorus Compound ,1,0.01
+ Biologically Active Substance , Animal ,1,0.01
+ Diagnostic Procedure , Research Device ,1,0.01
+ Inorganic Chemical , Human ,1,0.01
+ Virus , Organ or Tissue Function ,1,0.01
+ Organ or Tissue Function , Organ or Tissue Function ,1,0.01
+ Family Group , Patient or Disabled Group ,1,0.01
+ Lipid , Patient or Disabled Group ,1,0.01
+ Diagnostic Procedure , Acquired Abnormality ,1,0.01
+ Neoplastic Process , Physiologic Function ,1,0.01
+ Fungus , Pathologic Function ,1,0.01
+ Antibiotic , Molecular Function ,1,0.01
+ Steroid , Organism Function ,1,0.01
+ Pathologic Function , Anatomical Abnormality ,1,0.01
+ Immunologic Factor , Cell Function ,1,0.01
+ Patient or Disabled Group , Patient or Disabled Group ,1,0.01
+ Therapeutic or Preventive Procedure , Group ,1,0.01
+ Cell or Molecular Dysfunction , Invertebrate ,1,0.01
+ Eicosanoid , Cell Function ,1,0.01
+" Amino Acid, Peptide, or Protein ", Medical Device ,1,0.01
+ Virus , Patient or Disabled Group ,1,0.01
+ Gene or Genome , Receptor ,1,0.01
+ Hormone , Injury or Poisoning ,1,0.01
+ Hazardous or Poisonous Substance , Gene or Genome ,1,0.01
+ Pharmacologic Substance , Biomedical or Dental Material ,1,0.01
+ Carbohydrate , Sign or Symptom ,1,0.01
+ Organism Function , Virus ,1,0.01
+ Congenital Abnormality , Neoplastic Process ,1,0.01
+ Neuroreactive Substance or Biogenic Amine ," Amino Acid, Peptide, or Protein ",1,0.01
+ Age Group , Medical Device ,1,0.01
+ Physiologic Function , Physiologic Function ,1,0.01
+ Professional or Occupational Group , Biomedical or Dental Material ,1,0.01
+ Bacterium , Pathologic Function ,1,0.01
+ Professional or Occupational Group , Mental or Behavioral Dysfunction ,1,0.01
+ Social Behavior , Individual Behavior ,1,0.01
+ Pathologic Function , Organism ,1,0.01
+ Neoplastic Process , Body Substance ,1,0.01
+ Pharmacologic Substance , Biologic Function ,1,0.01
+" Nucleic Acid, Nucleoside, or Nucleotide ", Hormone ,1,0.01
+ Inorganic Chemical , Medical Device ,1,0.01
+ Physiologic Function , Pharmacologic Substance ,1,0.01
+ Group , Animal ,1,0.01
+ Gene or Genome , Congenital Abnormality ,1,0.01
+ Food , Food ,1,0.01
+ Tissue , Immunologic Factor ,1,0.01
+ Tissue , Biologically Active Substance ,1,0.01
+ Cell Function , Fungus ,1,0.01
+ Population Group , Population Group ,1,0.01
+ Individual Behavior , Patient or Disabled Group ,1,0.01
+ Gene or Genome , Acquired Abnormality ,1,0.01
+ Immunologic Factor , Genetic Function ,1,0.01
+" Nucleic Acid, Nucleoside, or Nucleotide ", Organism Function ,1,0.01
+ Medical Device , Chemical ,1,0.01
+" Indicator, Reagent, or Diagnostic Aid ", Chemical ,1,0.01
+ Hazardous or Poisonous Substance , Pharmacologic Substance ,1,0.01
+ Carbohydrate , Neoplastic Process ,1,0.01
+" Element, Ion, or Isotope "," Element, Ion, or Isotope ",1,0.01
+ Hormone , Mental or Behavioral Dysfunction ,1,0.01
+ Therapeutic or Preventive Procedure , Food ,1,0.01
+ Hormone , Sign or Symptom ,1,0.01
+ Antibiotic , Cell Function ,1,0.01
+ Biologically Active Substance , Chemical ,1,0.01
+ Cell or Molecular Dysfunction , Nucleotide Sequence ,1,0.01
+ Natural Phenomenon or Process , Cell Component ,1,0.01
+ Body Location or Region , Gene or Genome ,1,0.01
+ Steroid , Cell ,1,0.01
+ Bacterium , Cell Component ,1,0.01
+ Genetic Function ," Nucleic Acid, Nucleoside, or Nucleotide ",1,0.01
+ Fish , Cell ,1,0.01
+ Pharmacologic Substance , Body Substance ,1,0.01
+ Neoplastic Process , Carbohydrate ,1,0.01
+ Sign or Symptom , Clinical Attribute ,1,0.01
+ Mental or Behavioral Dysfunction , Neuroreactive Substance or Biogenic Amine ,1,0.01
+ Congenital Abnormality , Body Location or Region ,1,0.01
+ Disease or Syndrome , Nucleotide Sequence ,1,0.01
+ Age Group ," Body Part, Organ, or Organ Component ",1,0.01
+ Cell Function , Tissue ,1,0.01
+ Mental or Behavioral Dysfunction , Hormone ,1,0.01
+ Research Activity , Health Care Related Organization ,1,0.01
+ Pathologic Function , Vitamin ,1,0.01
+ Disease or Syndrome ," Element, Ion, or Isotope ",1,0.01
+ Hormone , Cell ,1,0.01
+ Disease or Syndrome , Pharmacologic Substance ,1,0.01
+ Chemical Viewed Structurally ," Body Part, Organ, or Organ Component ",1,0.01
+ Pathologic Function , Inorganic Chemical ,1,0.01
+ Injury or Poisoning , Inorganic Chemical ,1,0.01
+ Disease or Syndrome , Anatomical Abnormality ,1,0.01
+ Injury or Poisoning , Gene or Genome ,1,0.01
+ Genetic Function , Tissue ,1,0.01
+ Cell or Molecular Dysfunction ," Nucleic Acid, Nucleoside, or Nucleotide ",1,0.01
+ Sign or Symptom ," Amino Acid, Peptide, or Protein ",1,0.01
+ Pathologic Function ," Element, Ion, or Isotope ",1,0.01
+ Fish ," Body Part, Organ, or Organ Component ",1,0.01
+ Therapeutic or Preventive Procedure , Body System ,1,0.01
+ Mammal , Cell Component ,1,0.01
+ Mammal , Tissue ,1,0.01
+ Disease or Syndrome , Steroid ,1,0.01
+ Neoplastic Process , Hazardous or Poisonous Substance ,1,0.01
+ Body System , Neoplastic Process ,1,0.01
+ Research Activity , Organization ,1,0.01
+ Body Substance , Mammal ,1,0.01
+ Research Activity , Spatial Concept ,1,0.01
+ Disease or Syndrome , Vitamin ,1,0.01
+ Fish , Gene or Genome ,1,0.01
+ Organ or Tissue Function ," Body Part, Organ, or Organ Component ",1,0.01
+ Patient or Disabled Group , Health Care Related Organization ,1,0.01
+ Disease or Syndrome , Carbohydrate ,1,0.01
+ Injury or Poisoning , Spatial Concept ,1,0.01
+ Pathologic Function , Clinical Attribute ,1,0.01
+ Alga , Cell Component ,1,0.01
+ Diagnostic Procedure , Body Location or Region ,1,0.01
+" Amino Acid, Peptide, or Protein ", Organism ,1,0.01
+ Body Substance , Body Space or Junction ,1,0.01
+ Pathologic Function , Cell Component ,1,0.01
+ Bacterium , Cell ,1,0.01
+ Cell Component , Nucleotide Sequence ,1,0.01
+ Human , Health Care Related Organization ,1,0.01
+ Lipid ," Body Part, Organ, or Organ Component ",1,0.01
+ Mental or Behavioral Dysfunction , Pharmacologic Substance ,1,0.01
+ Pathologic Function , Biologically Active Substance ,1,0.01
+ Population Group , Geographic Area ,1,0.01
+ Biologic Function ," Body Part, Organ, or Organ Component ",1,0.01
+ Sign or Symptom , Hormone ,1,0.01
+ Diagnostic Procedure , Health Care Related Organization ,1,0.01
+ Neoplastic Process , Acquired Abnormality ,1,0.01
+ Inorganic Chemical , Body Substance ,1,0.01
+ Injury or Poisoning ," Amino Acid, Peptide, or Protein ",1,0.01
+ Cell , Cell Component ,1,0.01
+" Amino Acid, Peptide, or Protein ", Plant ,1,0.01
+ Human , Gene or Genome ,1,0.01
+ Pathologic Function , Hazardous or Poisonous Substance ,1,0.01
+ Disease or Syndrome , Lipid ,1,0.01
+ Embryonic Structure , Biologically Active Substance ,1,0.01
+ Cell , Spatial Concept ,1,0.01
+ Virus , Gene or Genome ,1,0.01
+ Bacterium ," Nucleic Acid, Nucleoside, or Nucleotide ",1,0.01
+ Lipid , Therapeutic or Preventive Procedure ,1,0.01
+" Indicator, Reagent, or Diagnostic Aid ", Cell Function ,1,0.01
+ Nucleotide Sequence , Cell or Molecular Dysfunction ,1,0.01
+ Alga , Alga ,1,0.01
+" Nucleic Acid, Nucleoside, or Nucleotide ", Mental Process ,1,0.01
+ Chemical Viewed Functionally , Mental or Behavioral Dysfunction ,1,0.01
+ Vitamin , Neoplastic Process ,1,0.01
+ Hazardous or Poisonous Substance , Human ,1,0.01
+ Individual Behavior , Age Group ,1,0.01
+ Pharmacologic Substance , Medical Device ,1,0.01
+ Organ or Tissue Function , Physiologic Function ,1,0.01
+ Organophosphorus Compound , Pathologic Function ,1,0.01
+ Disease or Syndrome , Invertebrate ,1,0.01
+ Organic Chemical , Tissue ,1,0.01
+ Organ or Tissue Function , Biologically Active Substance ,1,0.01
+ Health Care Activity , Family Group ,1,0.01
+ Virus , Neoplastic Process ,1,0.01
+ Immunologic Factor , Injury or Poisoning ,1,0.01
+ Chemical Viewed Functionally , Biologically Active Substance ,1,0.01
+ Receptor , Gene or Genome ,1,0.01
+ Organic Chemical , Laboratory Procedure ,1,0.01
+ Individual Behavior , Disease or Syndrome ,1,0.01
+ Hazardous or Poisonous Substance , Hormone ,1,0.01
+ Biologically Active Substance , Carbohydrate ,1,0.01
+ Gene or Genome , Tissue ,1,0.01
+" Body Part, Organ, or Organ Component ", Age Group ,1,0.01
+ Pharmacologic Substance , Congenital Abnormality ,1,0.01
+ Organic Chemical , Mental Process ,1,0.01
+ Steroid , Health Care Activity ,1,0.01
+ Daily or Recreational Activity , Health Care Activity ,1,0.01
+ Pharmacologic Substance , Health Care Activity ,1,0.01
+ Cell Component , Pathologic Function ,1,0.01
+ Cell , Steroid ,1,0.01
+ Chemical , Biologically Active Substance ,1,0.01
+ Chemical , Gene or Genome ,1,0.01
+ Chemical ," Amino Acid, Peptide, or Protein ",1,0.01
+ Health Care Related Organization , Research Activity ,1,0.01
+ Health Care Related Organization , Human ,1,0.01
+ Health Care Related Organization , Patient or Disabled Group ,1,0.01
+ Geographic Area , Population Group ,1,0.01
+ Virus , Organism Function ,1,0.01
+ Tissue , Cell Function ,1,0.01
+ Mental Process , Mental Process ,1,0.01
+" Nucleic Acid, Nucleoside, or Nucleotide ", Bacterium ,1,0.01
+ Organism Function , Neoplastic Process ,1,0.01
+ Mammal , Body Substance ,1,0.01
+ Immunologic Factor , Pathologic Function ,1,0.01
+ Clinical Attribute , Sign or Symptom ,1,0.01
+ Clinical Attribute , Pathologic Function ,1,0.01
+ Clinical Attribute , Mammal ,1,0.01
+ Body Substance , Pharmacologic Substance ,1,0.01
+ Social Behavior , Injury or Poisoning ,1,0.01
+ Pharmacologic Substance , Tissue ,1,0.01
+" Body Part, Organ, or Organ Component ", Organ or Tissue Function ,1,0.01
+" Amino Acid, Peptide, or Protein ", Receptor ,1,0.01
+" Body Part, Organ, or Organ Component ", Chemical Viewed Structurally ,1,0.01
+ Gene or Genome , Human ,1,0.01
+ Pharmacologic Substance , Chemical Viewed Functionally ,1,0.01
+ Gene or Genome , Sign or Symptom ,1,0.01
+ Therapeutic or Preventive Procedure , Functional Concept ,1,0.01
+ Cell Component , Organ or Tissue Function ,1,0.01
+ Spatial Concept , Research Activity ,1,0.01
+ Sign or Symptom , Mammal ,1,0.01
+ Alga , Organism ,1,0.01
+ Cell Component , Alga ,1,0.01
+" Body Part, Organ, or Organ Component ", Fish ,1,0.01
+ Medical Device , Laboratory Procedure ,1,0.01
+ Lipid ," Element, Ion, or Isotope ",1,0.01
+ Cell Function , Bacterium ,1,0.01
+ Nucleotide Sequence , Disease or Syndrome ,1,0.01
+ Spatial Concept , Injury or Poisoning ,1,0.01
+ Finding , Invertebrate ,1,0.01
+ Gene or Genome , Fish ,1,0.01
+ Organization , Research Activity ,1,0.01
+ Body Location or Region , Congenital Abnormality ,1,0.01
+ Hormone , Natural Phenomenon or Process ,1,0.01
+ Hormone , Cell or Molecular Dysfunction ,1,0.01
+ Acquired Abnormality , Neoplastic Process ,1,0.01
+ Tissue , Genetic Function ,1,0.01
+ Genetic Function , Enzyme ,1,0.01
+ Cell Function , Patient or Disabled Group ,1,0.01
+ Body Space or Junction , Cell Component ,1,0.01
+ Cell , Antibiotic ,1,0.01
+ Patient or Disabled Group , Gene or Genome ,1,0.01
+ Tissue , Gene or Genome ,1,0.01
+ Cell , Patient or Disabled Group ,1,0.01
+ Chemical Viewed Structurally , Gene or Genome ,1,0.01
+ Tissue , Patient or Disabled Group ,1,0.01
+ Organism Function , Patient or Disabled Group ,1,0.01
+ Diagnostic Procedure , Organic Chemical ,1,0.01
+ Diagnostic Procedure , Age Group ,1,0.01
+ Genetic Function , Population Group ,1,0.01
+ Cell Component , Body Space or Junction ,1,0.01
+ Cell , Family Group ,1,0.01
+ Molecular Function , Population Group ,1,0.01
+ Medical Device ," Amino Acid, Peptide, or Protein ",1,0.01
+ Sign or Symptom , Professional or Occupational Group ,1,0.01
+ Mammal , Gene or Genome ,1,0.01
+ Body Space or Junction , Diagnostic Procedure ,1,0.01
+ Lipid , Inorganic Chemical ,1,0.01
+ Natural Phenomenon or Process , Biologic Function ,1,0.01
+" Element, Ion, or Isotope ", Sign or Symptom ,1,0.01
+ Organ or Tissue Function , Body Substance ,1,0.01
+ Sign or Symptom , Health Care Activity ,1,0.01
+ Intellectual Product , Organism Function ,1,0.01
+ Gene or Genome , Embryonic Structure ,1,0.01
+ Chemical Viewed Structurally , Cell or Molecular Dysfunction ,1,0.01
+ Inorganic Chemical , Neoplastic Process ,1,0.01
+" Body Part, Organ, or Organ Component ", Cell Component ,1,0.01
+ Research Activity , Congenital Abnormality ,1,0.01
+ Population Group , Research Device ,1,0.01
+ Cell , Body Space or Junction ,1,0.01
+ Educational Activity , Organism Attribute ,1,0.01
+" Indicator, Reagent, or Diagnostic Aid "," Amino Acid, Peptide, or Protein ",1,0.01
+ Neoplastic Process , Natural Phenomenon or Process ,1,0.01
+ Disease or Syndrome , Group ,1,0.01
+ Enzyme , Hormone ,1,0.01
+ Medical Device , Biologically Active Substance ,1,0.01
+ Health Care Activity , Acquired Abnormality ,1,0.01
+ Biologically Active Substance , Family Group ,1,0.01
+ Intellectual Product , Mental or Behavioral Dysfunction ,1,0.01
+ Genetic Function , Bird ,1,0.01
+ Diagnostic Procedure ," Amino Acid, Peptide, or Protein ",1,0.01
+ Congenital Abnormality , Organ or Tissue Function ,1,0.01
+ Laboratory Procedure , Inorganic Chemical ,1,0.01
+" Indicator, Reagent, or Diagnostic Aid ", Chemical Viewed Structurally ,1,0.01
+" Nucleic Acid, Nucleoside, or Nucleotide ", Disease or Syndrome ,1,0.01
+ Organism Attribute , Physiologic Function ,1,0.01
+ Congenital Abnormality , Body Substance ,1,0.01
+ Congenital Abnormality , Animal ,1,0.01
+ Substance , Neoplastic Process ,1,0.01
+ Body System , Finding ,1,0.01
+ Patient or Disabled Group , Classification ,1,0.01
+ Laboratory Procedure , Organ or Tissue Function ,1,0.01
+ Nucleotide Sequence , Genetic Function ,1,0.01
+ Laboratory Procedure , Diagnostic Procedure ,1,0.01
+" Body Part, Organ, or Organ Component ", Acquired Abnormality ,1,0.01
+ Diagnostic Procedure , Laboratory Procedure ,1,0.01
+ Biologically Active Substance , Population Group ,1,0.01
+ Biomedical or Dental Material , Cell Function ,1,0.01
+ Research Activity , Hazardous or Poisonous Substance ,1,0.01
+ Molecular Biology Research Technique , Physiologic Function ,1,0.01
+ Pathologic Function , Body Substance ,1,0.01
+ Cell Component , Molecular Function ,1,0.01
+ Therapeutic or Preventive Procedure , Molecular Function ,1,0.01
+ Molecular Biology Research Technique , Natural Phenomenon or Process ,1,0.01
+ Inorganic Chemical , Sign or Symptom ,1,0.01
+ Diagnostic Procedure , Cell Function ,1,0.01
+ Intellectual Product , Temporal Concept ,1,0.01
+ Body Substance , Congenital Abnormality ,1,0.01
+ Pathologic Function , Population Group ,1,0.01
+ Cell Component , Neoplastic Process ,1,0.01
+ Molecular Biology Research Technique , Quantitative Concept ,1,0.01
+ Acquired Abnormality , Health Care Activity ,1,0.01
+" Element, Ion, or Isotope ", Organ or Tissue Function ,1,0.01
+ Organism Function , Pharmacologic Substance ,1,0.01
+ Molecular Biology Research Technique , Organism Attribute ,1,0.01
+ Research Activity , Cell or Molecular Dysfunction ,1,0.01
+ Chemical Viewed Structurally ," Indicator, Reagent, or Diagnostic Aid ",1,0.01
+ Biologically Active Substance , Clinical Attribute ,1,0.01
+ Research Activity , Acquired Abnormality ,1,0.01
+ Tissue , Therapeutic or Preventive Procedure ,1,0.01
+ Professional or Occupational Group , Regulation or Law ,1,0.01
+ Lipid ," Indicator, Reagent, or Diagnostic Aid ",1,0.01
+ Organ or Tissue Function , Organism Attribute ,1,0.01
+ Cell Component , Tissue ,1,0.01
+ Carbohydrate , Mammal ,1,0.01
+ Phenomenon or Process , Patient or Disabled Group ,1,0.01
+ Biologically Active Substance , Laboratory or Test Result ,1,0.01
+" Indicator, Reagent, or Diagnostic Aid ", Lipid ,1,0.01
+ Pharmacologic Substance , Anatomical Abnormality ,1,0.01
+ Injury or Poisoning , Family Group ,1,0.01
+ Family Group , Classification ,1,0.01
+ Chemical Viewed Structurally , Cell Function ,1,0.01
+ Substance , Acquired Abnormality ,1,0.01
+ Experimental Model of Disease ," Amino Acid, Peptide, or Protein ",1,0.01
+ Inorganic Chemical , Cell Component ,1,0.01
+ Laboratory Procedure , Lipid ,1,0.01
+ Hormone , Antibiotic ,1,0.01
+ Hormone , Enzyme ,1,0.01
+ Medical Device , Acquired Abnormality ,1,0.01
+ Research Activity , Inorganic Chemical ,1,0.01
+ Injury or Poisoning , Population Group ,1,0.01
+ Natural Phenomenon or Process , Pathologic Function ,1,0.01
+ Cell , Enzyme ,1,0.01
+ Genetic Function , Body Substance ,1,0.01
+ Mammal , Carbohydrate ,1,0.01
+ Cell or Molecular Dysfunction , Pathologic Function ,1,0.01
+ Cell Component , Inorganic Chemical ,1,0.01
+ Gene or Genome , Laboratory or Test Result ,1,0.01
+ Food , Organism Function ,1,0.01
+ Bacterium , Carbohydrate ,1,0.01
+ Intellectual Product , Experimental Model of Disease ,1,0.01
+ Molecular Biology Research Technique , Pharmacologic Substance ,1,0.01
+ Inorganic Chemical , Chemical Viewed Structurally ,1,0.01
+ Laboratory Procedure , Natural Phenomenon or Process ,1,0.01
+ Molecular Biology Research Technique , Genetic Function ,1,0.01
+ Mammal ," Indicator, Reagent, or Diagnostic Aid ",1,0.01
+ Biologically Active Substance , Congenital Abnormality ,1,0.01
+ Health Care Activity , Biologically Active Substance ,1,0.01
+ Substance , Congenital Abnormality ,1,0.01
+ Pathologic Function , Cell or Molecular Dysfunction ,1,0.01
+ Neoplastic Process , Family Group ,1,0.01
+ Organism Attribute , Congenital Abnormality ,1,0.01
+ Organism Attribute , Organ or Tissue Function ,1,0.01
+ Tissue , Experimental Model of Disease ,1,0.01
+ Cell Function , Bird ,1,0.01
+ Genetic Function , Cell or Molecular Dysfunction ,1,0.01
+ Therapeutic or Preventive Procedure , Virus ,1,0.01
+ Immunologic Factor , Gene or Genome ,1,0.01
+ Sign or Symptom , Organ or Tissue Function ,1,0.01
+ Research Activity , Intellectual Product ,1,0.01
+ Congenital Abnormality , Patient or Disabled Group ,1,0.01
